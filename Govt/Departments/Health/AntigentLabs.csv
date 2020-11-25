@@ -1,0 +1,731 @@
+id,NAME,Address,District,Test Type,geometry,FullAddress
+1,Kinder Womens Hospital and Fertility Centre,Kinder Womens Hospital and Fertility Centre  Cherthala,Alappuzha,ANTIGEN,POINT(76.3412744 9.6631736),Kinder Womens Hospital and Fertility Centre  Cherthala  Alappuzha
+2,Health Park Medical Centre,Health Park Medical Centre  Alappuzha,Alappuzha,ANTIGEN,POINT( 76.3366629 9.4912659 ),Health Park Medical Centre  Alappuzha
+3,Sankar's Healthcare Scans & Diagnostics,Sankar's Healthcare Scans & Diagnostics  Kannampallil Building  Near Medical College  Vandanam  Alappuzha,Alappuzha,ANTIGEN,POINT(76.330781 10.315467),Sankar's Healthcare Scans & Diagnostics  Kannampallil Building  Near Medical College  Vandanam  Alappuzha  Alappuzha
+4,Providence Hospital,Providence Hospital  Thumpoly  Alappuzha,Alappuzha,ANTIGEN,POINT(76.327767 9.526216),Providence Hospital  Thumpoly  Alappuzha  Alappuzha
+5,Metro Diagnostic Centre,Metro Diagnostic Centre AVA Sona Tower  Near General Hospital  Alappuzha,Alappuzha,ANTIGEN,POINT(76.415145 9.452173),Metro Diagnostic Centre AVA Sona Tower  Near General Hospital  Alappuzha  Alappuzha
+6,KVM Superspeciality Hospital,KVM Superspeciality Hospital  Cherthala  Alappuzha,Alappuzha,ANTIGEN,POINT(76.52455 9.28577),KVM Superspeciality Hospital  Cherthala  Alappuzha  Alappuzha
+7,Aswathy Fully Automated Lab,Aswathy Fully Automated Lab  General Hospital  Alappuzha,Alappuzha,ANTIGEN,POINT( 76.3397167 9.4902917 ),Aswathy Fully Automated Lab  General Hospital  Alappuzha
+8,New Microlab Laboratories,New Microlab Laboratories Opp Govt Girls H.S  Althara Junction Chengannur,Alappuzha,ANTIGEN,POINT(76.584263 9.270202),New Microlab Laboratories Opp Govt Girls H.S  Althara Junction Chengannur  Alappuzha
+9,Doctors Diagnostic Clinic,Doctors Diagnostic Clinic  kumbalath Building  Haripad  Kerala,Alappuzha,ANTIGEN,POINT(76.331452 9.95061),Doctors Diagnostic Clinic  kumbalath Building  Haripad  Kerala  Alappuzha
+10,STM Lab,STM Lab  Vandanam  Alappuzha,Alappuzha,ANTIGEN,POINT(76.338066 9.684106),STM Lab  Vandanam  Alappuzha  Alappuzha
+11,HUDA TRUST HOSPITAL,HUDA TRUST HOSPITAL  KUMARAPURAM P.O  HARIPAD  Alappuzha,Alappuzha,ANTIGEN,POINT(76.415145 9.452173),HUDA TRUST HOSPITAL  KUMARAPURAM P.O  HARIPAD  Alappuzha  Alappuzha
+12,Sahrudaya Hospital,Sahrudaya Hospital  Thathampally P.O  Alappuzha,Alappuzha,ANTIGEN,POINT(76.3418646 9.5053603),Sahrudaya Hospital  Thathampally P.O  Alappuzha  Alappuzha
+13,Ebenezer Hospital,Ebenezer Hospital  Kayamkulam  Alappuzha,Alappuzha,ANTIGEN,POINT(76.4997033 9.1735507),Ebenezer Hospital  Kayamkulam  Alappuzha  Alappuzha
+14,Lourdes Matha Hospital,Lourdes Matha Hospital  Pacha  Alappuzha,Alappuzha,ANTIGEN,POINT(76.331265 9.465943),Lourdes Matha Hospital  Pacha  Alappuzha  Alappuzha
+15,Midas Scan and laboratory,Midas Scan and laboratory  General Hospital Junction  Alappuzha,Alappuzha,ANTIGEN,POINT(76.339556 9.682944),Midas Scan and laboratory  General Hospital Junction  Alappuzha  Alappuzha
+16,SANKAR'S HEALTHCARE SCANS & DIAGNOSTICS,SANKAR'S HEALTHCARE SCANS & DIAGNOSTICS  Sankars Bolla Tower  Near General Hospital  Alappuzha,Alappuzha,ANTIGEN,POINT(76.330781 10.315467),SANKAR'S HEALTHCARE SCANS & DIAGNOSTICS  Sankars Bolla Tower  Near General Hospital  Alappuzha  Alappuzha
+17,Chethana Janakeeya Lab,Chethana Janakeeya Lab  TDMC P O  Alappuzha,Alappuzha,ANTIGEN,POINT(76.313945 9.630228),Chethana Janakeeya Lab  TDMC P O  Alappuzha  Alappuzha
+18,Biovision India Specialty Diagnostic Centre,Biovision India Specialty Diagnostic Centre  Thazhakkara  Mavelikkara,Alappuzha,ANTIGEN,POINT( 76.5515327 9.2545450 ),Biovision India Specialty Diagnostic Centre  Thazhakkara  Mavelikkara
+19,Mahajubilee Memorial Hospital,Mahajubilee Memorial Hospital  Edathua,Alappuzha,ANTIGEN,POINT(76.611486 9.319854),Mahajubilee Memorial Hospital  Edathua  Alappuzha
+20,St. Sebastians Visitisation Hospital,St. Sebastians Visitisation Hospital  Arthunkal  Cherthala,Alappuzha,ANTIGEN,POINT(76.30434 9.646277),St. Sebastians Visitisation Hospital  Arthunkal  Cherthala  Alappuzha
+21,Sanjivani Multispecialty Hospital,Sanjivani Multispecialty Hospital  situated in Kollakadavu  Chengannur  Alappuzha,Alappuzha,ANTIGEN,POINT(76.59617 9.259224),Sanjivani Multispecialty Hospital  situated in Kollakadavu  Chengannur  Alappuzha  Alappuzha
+22,Sree Narayana Medical Mission Hospital,Sree Narayana Medical Mission Hospital  Cherthala  Alappuzha,Alappuzha,ANTIGEN,POINT(76.3413481 9.6744309),Sree Narayana Medical Mission Hospital  Cherthala  Alappuzha  Alappuzha
+23,KERALA DIAGNOSTIC CENTRE,KERALA DIAGNOSTIC CENTRE  KOSIA BUILDING  OPP:RAIBAN THEATRE  GENERAL HOSPITAL JUNCTION  ALAPPUZHA,Alappuzha,ANTIGEN,POINT(76.337986 9.470125),KERALA DIAGNOSTIC CENTRE  KOSIA BUILDING  OPP:RAIBAN THEATRE  GENERAL HOSPITAL JUNCTION  ALAPPUZHA  Alappuzha
+24,POOCHAKKAL MEDICAL CENTRE,POOCHAKKAL MEDICAL CENTRE  POOCHAKKAL P O  CHERTHALA  ALAPPUZHA,Alappuzha,ANTIGEN,POINT(76.568905 9.176441),POOCHAKKAL MEDICAL CENTRE  POOCHAKKAL P O  CHERTHALA  ALAPPUZHA  Alappuzha
+25,KCM Hospital,KCM Hospital  LS PO  Nooranad  Alappuzha,Alappuzha,ANTIGEN,POINT( 76.6245194 9.1753250 ),KCM Hospital  LS PO  Nooranad  Alappuzha
+26,St Thomas Mission Hospital,St Thomas Mission Hospital  Pallickal Po  Kattanam  Alappuzha,Alappuzha,ANTIGEN,POINT(76.581544 9.168826),St Thomas Mission Hospital  Pallickal Po  Kattanam  Alappuzha  Alappuzha
+27,ASTER KOCHI,ASTER KOCHI,Ernakulam,ANTIGEN,POINT(76.2766858008398 10.03295025),ASTER KOCHI  Ernakulam
+28,Lakeshore Hospital,Lakeshore Hospital  Ernakulam,Ernakulam,ANTIGEN,POINT(76.3174647 9.9179841),Lakeshore Hospital  Ernakulam  Ernakulam
+29,AIMS Kochi,AIMS Kochi,Ernakulam,ANTIGEN,POINT(76.332486 9.956297),AIMS Kochi  Ernakulam
+30,Rajagiri Hospital Aluva,Rajagiri Hospital Aluva,Ernakulam,ANTIGEN,POINT(76.3882425458754 10.08773905),Rajagiri Hospital Aluva  Ernakulam
+31,DDRC,DDRC  Kochi,Ernakulam,ANTIGEN,POINT(76.2735442205434 9.9220467),DDRC  Kochi  Ernakulam
+32,Vijaya Kumara Menon Hospital,Vijaya Kumara Menon Hospital  Ernakulam,Ernakulam,ANTIGEN,POINT(76.3407151049773 9.9527732),Vijaya Kumara Menon Hospital  Ernakulam  Ernakulam
+33,Medical Trust Hospital,Medical Trust Hospital  Ernakulam,Ernakulam,ANTIGEN,POINT(76.2005668922147 10.1152829),Medical Trust Hospital  Ernakulam  Ernakulam
+34,POLAKULATH NARAYANAN RENAI MEDICITY,POLAKULATH NARAYANAN RENAI MEDICITY  Kochi,Ernakulam,ANTIGEN,POINT( 76.3033111 10.0077444 ),POLAKULATH NARAYANAN RENAI MEDICITY  Kochi
+35,CIMAR Cochin Hospitals,CIMAR Cochin Hospitals  Ernakulam,Ernakulam,ANTIGEN,POINT(76.296743 10.0515389),CIMAR Cochin Hospitals  Ernakulam  Ernakulam
+36,SREE SUDHEENDRA MEDICAL MISSION ERNAKULAM,SREE SUDHEENDRA MEDICAL MISSION ERNAKULAM,Ernakulam,ANTIGEN,POINT(76.2832964 9.9849328),SREE SUDHEENDRA MEDICAL MISSION ERNAKULAM  Ernakulam
+37,Alpha ENT head&neck Research Institute,Alpha ENT head&neck Research Institute  Ernakulam,Ernakulam,ANTIGEN,POINT(76.2953791 10.0032624),Alpha ENT head&neck Research Institute  Ernakulam  Ernakulam
+38,Mar Baselios Medical Mission Hospital Kothamangalam,Mar Baselios Medical Mission Hospital Kothamangalam,Ernakulam,ANTIGEN,POINT(76.6223951 10.0645781),Mar Baselios Medical Mission Hospital Kothamangalam  Ernakulam
+39,Little Flower Hospital & Research Centre,Little Flower Hospital & Research Centre  Angamaly,Ernakulam,ANTIGEN,POINT(77.6824995 12.9808263),Little Flower Hospital & Research Centre  Angamaly  Ernakulam
+40,St Joseph Hospital,St Joseph Hospital  Dharmagiri  Ernakulam,Ernakulam,ANTIGEN,POINT(76.301414 10.060191),St Joseph Hospital  Dharmagiri  Ernakulam  Ernakulam
+41,Sabine Hospital & Research Centre Pvt Ltd,Sabine Hospital & Research Centre Pvt Ltd  Pezhakkappilly P.O  Muvattupuzha  Ernakulam,Ernakulam,ANTIGEN,POINT(76.5678704787855 10.01412425),Sabine Hospital & Research Centre Pvt Ltd  Pezhakkappilly P.O  Muvattupuzha  Ernakulam  Ernakulam
+42,Microlab Speciality Health Care Services,Microlab Speciality Health Care Services  Kozhenchery,Ernakulam,ANTIGEN,POINT(76.388793 10.0877),Microlab Speciality Health Care Services  Kozhenchery  Ernakulam
+43,E.S.I.C. Hospital,E.S.I.C. Hospital  Udyogmandal  Ernakulam,Ernakulam,ANTIGEN,POINT(76.317793 10.077815),E.S.I.C. Hospital  Udyogmandal  Ernakulam  Ernakulam
+44,Samaritan Hospital,Samaritan Hospital  Pazhanganad  Ernakulam,Ernakulam,ANTIGEN,POINT(76.396719 10.043822),Samaritan Hospital  Pazhanganad  Ernakulam  Ernakulam
+45,Sanjoe Hospital,Sanjoe Hospital  A M Road Perumbavoor  Ernakulam,Ernakulam,ANTIGEN,POINT(76.445404 10.178707),Sanjoe Hospital  A M Road Perumbavoor  Ernakulam  Ernakulam
+46,St Joseph hospital trust,St Joseph hospital trust  Manjummel  Ernakulam,Ernakulam,ANTIGEN,POINT(76.577693 9.988819),St Joseph hospital trust  Manjummel  Ernakulam  Ernakulam
+47,Lisie Hospital,Lisie Hospital  Ernakulam,Ernakulam,ANTIGEN,POINT(76.2889878518103 9.98937165),Lisie Hospital  Ernakulam  Ernakulam
+48,Carmel Hospital,Carmel Hospital  Asokapuram  Aluva,Ernakulam,ANTIGEN,POINT(76.362071 10.090557),Carmel Hospital  Asokapuram  Aluva  Ernakulam
+49,P S Mission Hospital Maradu,P S Mission Hospital Maradu,Ernakulam,ANTIGEN,POINT(76.3227155 9.9377796),P S Mission Hospital Maradu  Ernakulam
+50,MAGJ,MAGJ  Hospital  Mookkannoor  Angamaly,Ernakulam,ANTIGEN,POINT(76.413623 10.220984),MAGJ  Hospital  Mookkannoor  Angamaly  Ernakulam
+51,Sunrise Hospital,Sunrise Hospital Seaport-Airport Road  Mavelipuram  Kakkanad,Ernakulam,ANTIGEN,POINT(76.33888 10.025232),Sunrise Hospital Seaport-Airport Road  Mavelipuram  Kakkanad  Ernakulam
+52,Kinder Multispeciality Hospital,Kinder Multispeciality Hospital Kochi,Ernakulam,ANTIGEN,POINT(76.315859 10.038155),Kinder Multispeciality Hospital Kochi  Ernakulam
+53,Indira Gandhi Co-operative Hospital ,Indira Gandhi Co-operative Hospital  Kadavanthra  Ernakulam,Ernakulam,ANTIGEN,POINT(76.298569 9.968895),Indira Gandhi Co-operative Hospital  Kadavanthra  Ernakulam  Ernakulam
+54,Nirmala Medical Centre,Nirmala Medical Centre  Muvattupuzha,Ernakulam,ANTIGEN,POINT(76.5924778317561 9.97971435),Nirmala Medical Centre  Muvattupuzha  Ernakulam
+55,Specialists Hospital,Specialists Hospital  K.C.M Mather road  Ernakulam,Ernakulam,ANTIGEN,POINT(76.2860182 9.9905344),Specialists Hospital  K.C.M Mather road  Ernakulam  Ernakulam
+56,Neuberg Diagnostics,Neuberg Diagnostics  Kaloor  Kochi,Ernakulam,ANTIGEN,POINT( 76.2914944 9.9951444 ),Neuberg Diagnostics  Kaloor  Kochi
+57,Vivid Diagnostic Centre,Vivid Diagnostic Centre  Chalikkavattom  Vytila,Ernakulam,ANTIGEN,POINT(76.282025 9.979982),Vivid Diagnostic Centre  Chalikkavattom  Vytila  Ernakulam
+58,Sree Narayana Institute of medical sciences,Sree Narayana Institute of medical sciences Chalakka,Ernakulam,ANTIGEN,POINT(76.354024 10.048027),Sree Narayana Institute of medical sciences Chalakka  Ernakulam
+59,Hi Tech Diagnostic Centre Palarivattom,Hi Tech Diagnostic Centre Palarivattom,Ernakulam,ANTIGEN,POINT(76.289241 10.018896),Hi Tech Diagnostic Centre Palarivattom  Ernakulam
+60,Devi Hospital Pvt Ltd,Devi Hospital Pvt Ltd North Fort Gate Tripunithura ,Ernakulam,ANTIGEN,POINT(76.477804 10.052821),Devi Hospital Pvt Ltd North Fort Gate Tripunithura   Ernakulam
+61,Sreekantapuram Hospital,Sreekantapuram Hospital  Mavelikkara,Ernakulam,ANTIGEN,POINT(76.289097 9.989392),Sreekantapuram Hospital  Mavelikkara  Ernakulam
+62,V S M Hospital,V S M Hospital  Thattarambalam  Mavelikkara,Ernakulam,ANTIGEN,POINT(76.526625 9.854811),V S M Hospital  Thattarambalam  Mavelikkara  Ernakulam
+63,M A J Hospital,M A J Hospital  Edappally  Kochi,Ernakulam,ANTIGEN,POINT(76.308035 10.021238),M A J Hospital  Edappally  Kochi  Ernakulam
+64,Don Bosco Hospital,Don Bosco Hospital  North Paravur  Ernakulam,Ernakulam,ANTIGEN,POINT(76.314588 9.998119),Don Bosco Hospital  North Paravur  Ernakulam  Ernakulam
+65,MOSC Medical College Hospital,MOSC Medical College Hospital  Kolenchery  Ernakulam  Kerala,Ernakulam,ANTIGEN,POINT(76.355734 10.052955),MOSC Medical College Hospital  Kolenchery  Ernakulam  Kerala  Ernakulam
+66,Doctor's Diagnostic Centre Pvt Ltd,Doctor's Diagnostic Centre Pvt Ltd  CGN Building  Thripunithura Ernakulam,Ernakulam,ANTIGEN,POINT(76.331452 9.95061),Doctor's Diagnostic Centre Pvt Ltd  CGN Building  Thripunithura Ernakulam  Ernakulam
+67,EI Lab Metropolis,EI Lab Metropolis  North Square Building Opp Town Hall  Ernakulam North,Ernakulam,ANTIGEN,POINT(76.526625 9.854811),EI Lab Metropolis  North Square Building Opp Town Hall  Ernakulam North  Ernakulam
+68,Akshaya Hospital,Akshaya Hospital  Kaloor  Kadavanthra  Kochi,Ernakulam,ANTIGEN,POINT(76.299662 9.969025),Akshaya Hospital  Kaloor  Kadavanthra  Kochi  Ernakulam
+69,AP Varkey Mission Hospital,AP Varkey Mission Hospital Thottapady  Arakkunnam  Mulanthuruthy,Ernakulam,ANTIGEN,POINT(76.447221 9.88593),AP Varkey Mission Hospital Thottapady  Arakkunnam  Mulanthuruthy  Ernakulam
+70,Ernaklam Medical Centre Hospital (P) Ltd,Ernaklam Medical Centre Hospital (P Ltd  NH Bypass  Pallarivattom  Cochin,Ernakulam,ANTIGEN,POINT(76.477804 10.052821),Ernaklam Medical Centre Hospital (P Ltd  NH Bypass  Pallarivattom  Cochin  Ernakulam
+71,Dr. Lal PathLabs Ltd. ,Dr. Lal PathLabs Ltd. Opp College Ground M.G. Road Ernakulam Cochin,Ernakulam,ANTIGEN,POINT(76.477804 10.052821),Dr. Lal PathLabs Ltd. Opp College Ground M.G. Road Ernakulam Cochin  Ernakulam
+72,B and B Memorial Hospital,B and B Memorial Hospital  Thrikkakara  Ernakulam,Ernakulam,ANTIGEN,POINT(76.283359 9.99327),B and B Memorial Hospital  Thrikkakara  Ernakulam  Ernakulam
+73,Gautham Hospital,Gautham Hospital  Panayappilly  Kochi,Ernakulam,ANTIGEN,POINT(76.2560419 9.9468667),Gautham Hospital  Panayappilly  Kochi  Ernakulam
+74,Lakshmi Hospital,Lakshmi Hospital  Diwans Road  Ernakulam,Ernakulam,ANTIGEN,POINT(76.2836928670294 9.96636565),Lakshmi Hospital  Diwans Road  Ernakulam  Ernakulam
+75,Thrikkakara Municipal Cooperative Hospital Society Ltd No.E-993,Thrikkakara Municipal Cooperative Hospital Society Ltd No.E-993  Kakkanad,Ernakulam,ANTIGEN,POINT( 76.3434944 10.0189611 ),Thrikkakara Municipal Cooperative Hospital Society Ltd No.E-993  Kakkanad
+76,Medical Trust Hospital,Medical Trust Hospital  Kuzhuppilly  Ayyampilly  Ernakulam,Ernakulam,ANTIGEN,POINT(76.317804 10.044187),Medical Trust Hospital  Kuzhuppilly  Ayyampilly  Ernakulam  Ernakulam
+77,Karothukuzhi Hospital,Karothukuzhi Hospital  Aluva Ernakulam,Ernakulam,ANTIGEN,POINT(76.350946215239 10.1052629),Karothukuzhi Hospital  Aluva Ernakulam  Ernakulam
+78,KRISHNA HOSPITAL,KRISHNA HOSPITAL  M G CHITTOOR ROAD  COCHIN,Ernakulam,ANTIGEN,POINT(76.477804 10.052821),KRISHNA HOSPITAL  M G CHITTOOR ROAD  COCHIN  Ernakulam
+79,Ernakulam Medical Centre Hospital (P Ltd,Ernakulam Medical Centre Hospital (P Ltd  Palarivattom  Kochi,Ernakulam,ANTIGEN,POINT(76.314531 9.999678),Ernakulam Medical Centre Hospital (P Ltd  Palarivattom  Kochi  Ernakulam
+80,Meditech Diagnostic Centre,Meditech Diagnostic Centre  Silpa Complex  Muppathadam P O  Aluva,Ernakulam,ANTIGEN,POINT(76.282025 9.979982),Meditech Diagnostic Centre  Silpa Complex  Muppathadam P O  Aluva  Ernakulam
+81,Vimala Hospital,Vimala Hospital  Kanjoor  Ernakulam,Ernakulam,ANTIGEN,POINT(76.424672 10.144605),Vimala Hospital  Kanjoor  Ernakulam  Ernakulam
+82,Muvattupuzha Co-operative Super Speciality Hospital,Muvattupuzha Co-operative Super Speciality Hospital,Ernakulam,ANTIGEN,POINT( 76.5879500 9.9922306 ),Muvattupuzha Co-operative Super Speciality Hospital
+83,Sangeeth Hospital,Sangeeth Hospital  Mattanchery PO  Ernakulam,Ernakulam,ANTIGEN,POINT( 76.2510000 9.9572806 ),Sangeeth Hospital  Mattanchery PO  Ernakulam
+84,Medivision Scan & Diagnostic Research Centre Pvt Ltd,Medivision Scan & Diagnostic Research Centre Pvt Ltd  Ravipuram  Kochi,Ernakulam,ANTIGEN,POINT(77.649384 12.954825),Medivision Scan & Diagnostic Research Centre Pvt Ltd  Ravipuram  Kochi  Ernakulam
+85,Santhula trust hospital,Santhula trust hospital  Vadakara PO  Koothattukulam  Ernakulam,Ernakulam,ANTIGEN,POINT(76.577693 9.988819),Santhula trust hospital  Vadakara PO  Koothattukulam  Ernakulam  Ernakulam
+86,NEDUMCHALIL TRUST HOSPITAL,NEDUMCHALIL TRUST HOSPITAL MARKET P O MUVATTUPUZHA,Ernakulam,ANTIGEN,POINT(76.626624 10.013421),NEDUMCHALIL TRUST HOSPITAL MARKET P O MUVATTUPUZHA  Ernakulam
+87,DEPARTMENT OF LABORATORY,DEPARTMENT OF LABORATORY  Shenoys CARE (P LTD  Near Nippon Toyota   Nettoor   Ernakulam,Ernakulam,ANTIGEN,POINT(76.425394 10.088329),DEPARTMENT OF LABORATORY  Shenoys CARE (P LTD  Near Nippon Toyota   Nettoor   Ernakulam  Ernakulam
+88,Dr KUNHALUS NURSING HOME,Dr KUNHALUS NURSING HOME T D ROAD  ERNAKULAM,Ernakulam,ANTIGEN,POINT(76.526625 9.854811),Dr KUNHALUS NURSING HOME T D ROAD  ERNAKULAM  Ernakulam
+89,Naveen Lab,Naveen Lab  Near Govt. Hospital  Perumbavoor  Ernakulam,Ernakulam,ANTIGEN,POINT( 76.4811972 10.1155944 ),Naveen Lab  Near Govt. Hospital  Perumbavoor  Ernakulam
+90,PMM Hospital,PMM Hospital  Kalady  Kanjoor Road,Ernakulam,ANTIGEN,POINT(76.526625 9.854811),PMM Hospital  Kalady  Kanjoor Road  Ernakulam
+91,VISHUS HI TECH DIAGNOSTIC CENTRE,VISHUS HI TECH DIAGNOSTIC CENTRE  Thundathil building  PWD road  SN junction  Nettoor- Madavana road  Ernakulam,Ernakulam,ANTIGEN,POINT(76.526625 9.854811),VISHUS HI TECH DIAGNOSTIC CENTRE  Thundathil building  PWD road  SN junction  Nettoor- Madavana road  Ernakulam  Ernakulam
+92,Welcare Hospital,Welcare Hospital  SA Road  Vytila,Ernakulam,ANTIGEN,POINT(76.301096 9.999661),Welcare Hospital  SA Road  Vytila  Ernakulam
+93,Devamatha Hospital,Devamatha Hospital  Koothattukulam  Ernakulam,Ernakulam,ANTIGEN,POINT(76.595315 9.865639),Devamatha Hospital  Koothattukulam  Ernakulam  Ernakulam
+94,Najath Hospital,Najath Hospital  Bye Pass Junction  Aluva,Ernakulam,ANTIGEN,POINT(76.35157 10.110983),Najath Hospital  Bye Pass Junction  Aluva  Ernakulam
+95,Anwar Memorial Hospital Health Laboratory,Anwar Memorial Hospital Health Laboratory  Santhosh Lane  Aluva,Ernakulam,ANTIGEN,POINT(76.383017 9.93341),Anwar Memorial Hospital Health Laboratory  Santhosh Lane  Aluva  Ernakulam
+96,Apollo Adlux hospital,Apollo Adlux hospital  35/2  Cable junction  Karukutty post  Angamaly  Ernakulam,Ernakulam,ANTIGEN,POINT( 76.3724917 10.2396806 ),Apollo Adlux hospital  35/2  Cable junction  Karukutty post  Angamaly  Ernakulam
+97,V.G.Saraf Memorial Hospital Pvt Ltd,V.G.Saraf Memorial Hospital Pvt Ltd  39/4603-A  Sreekandath  Road  Ravipuram,Ernakulam,ANTIGEN,POINT(76.526625 9.854811),V.G.Saraf Memorial Hospital Pvt Ltd  39/4603-A  Sreekandath  Road  Ravipuram  Ernakulam
+98,Holy Family Hospital,Holy Family Hospital Muthalakodam  Idukki,Idukki,ANTIGEN,POINT(76.733642 9.912222),Holy Family Hospital Muthalakodam  Idukki  Idukki
+99,Chazhikattu Hospitals pvt Ltd,Chazhikattu Hospitals pvt Ltd IX/139A River View Road Thodupuzha Idukki,Idukki,ANTIGEN,POINT(76.712615 9.939092),Chazhikattu Hospitals pvt Ltd IX/139A River View Road Thodupuzha Idukki  Idukki
+100,St. Marys Health Care Pvt Ltd. Thodupuzha,St. Marys Health Care Pvt Ltd. Thodupuzha,Idukki,ANTIGEN,POINT(76.93771 9.896826),St. Marys Health Care Pvt Ltd. Thodupuzha  Idukki
+101,Idukki District Co Operative Hospital ,Idukki District Co Operative Hospital   Thodupuzha,Idukki,ANTIGEN,POINT(77.061336 9.737047),Idukki District Co Operative Hospital   Thodupuzha  Idukki
+102,Al Azhar Medical College & Hospital,Al Azhar Medical College & Hospital  Thodupuzha,Idukki,ANTIGEN,POINT( 76.7232611 9.9347861 ),Al Azhar Medical College & Hospital  Thodupuzha
+103,St. John's Hospital,St. John's Hospital  Kattappana South P.O.  Idukki .,Idukki,ANTIGEN,POINT(77.109715 9.747013),St. John's Hospital  Kattappana South P.O.  Idukki .  Idukki
+104,Alphonsa Hospital,Alphonsa Hospital  Murickassery  Idukki,Idukki,ANTIGEN,POINT(77.0092089 9.9135049),Alphonsa Hospital  Murickassery  Idukki  Idukki
+105,Morning Star Medical Centre,Morning Star Medical Centre  Nazareth Hill  Adimaly  Idukki,Idukki,ANTIGEN,POINT(77.043171 9.992177),Morning Star Medical Centre  Nazareth Hill  Adimaly  Idukki  Idukki
+106,Mundakayam Medical Trust Hospital,Mundakayam Medical Trust Hospital  Idukki,Idukki,ANTIGEN,POINT(76.908997 9.535144),Mundakayam Medical Trust Hospital  Idukki  Idukki
+107,Karuna Hospital,Karuna Hospital  Thodupuzha  Idukki,Idukki,ANTIGEN,POINT(76.7469090807339 9.8378009),Karuna Hospital  Thodupuzha  Idukki  Idukki
+108,SMART MEDIPLUS DIAGNOSTIC CENTRE,SMART MEDIPLUS DIAGNOSTIC CENTRE  Thodupuzha,Idukki,ANTIGEN,POINT( 76.7241944 9.9021417 ),SMART MEDIPLUS DIAGNOSTIC CENTRE  Thodupuzha
+109,Medical Trust Hospital,Medical Trust Hospital  Nedumkandam  Idukki,Idukki,ANTIGEN,POINT(76.908997 9.535144),Medical Trust Hospital  Nedumkandam  Idukki  Idukki
+110,SMART MEDIPLUS DIAGNOSTIC CENTRE,SMART MEDIPLUS DIAGNOSTIC CENTRE  KALLIKUZHY BUILDING  LIBRARY ROAD   ADIMALY,Idukki,ANTIGEN,POINT( 76.9588694 10.0128639 ),SMART MEDIPLUS DIAGNOSTIC CENTRE  KALLIKUZHY BUILDING  LIBRARY ROAD   ADIMALY
+111,Aster MIMS Kannur,Aster MIMS Kannur,Kannur,ANTIGEN,POINT(75.429997335375 11.8391384),Aster MIMS Kannur  Kannur
+112,St.Martin De Porres Hospital,St.Martin De Porres Hospital Cherukunnu Kannur,Kannur,ANTIGEN,POINT(75.3133685 11.9945472),St.Martin De Porres Hospital Cherukunnu Kannur  Kannur
+113,Superspeciality Lab,Superspeciality Lab  Payyoli,Kannur,ANTIGEN,POINT(75.515001 11.781293),Superspeciality Lab  Payyoli  Kannur
+114,THE LAB,THE LAB  LABORATORY AND SCANNING CENTRE  RAILWAY STATION ROAD  PAZHAYANGADI  KANNUR,Kannur,ANTIGEN,POINT(75.358829 11.862946),THE LAB  LABORATORY AND SCANNING CENTRE  RAILWAY STATION ROAD  PAZHAYANGADI  KANNUR  Kannur
+115,Indira Gandhi Co-OP Hospital,Indira Gandhi Co-OP Hospital Manjodi  Thalassery  Kannur,Kannur,ANTIGEN,POINT(75.506134 11.746893),Indira Gandhi Co-OP Hospital Manjodi  Thalassery  Kannur  Kannur
+116,AKG Memorial Co operative Hospital,AKG Memorial Co operative Hospital  Kannur,Kannur,ANTIGEN,POINT( 75.3730444 11.8851528 ),AKG Memorial Co operative Hospital  Kannur
+117,THE PAYYANUR CO OPERATIVE HOSPITAL SOCIETY LTD,THE PAYYANUR CO OPERATIVE HOSPITAL SOCIETY LTD  SOUTH BAZAR  PAYYANUR  PAYYANUR PO  KANNUR,Kannur,ANTIGEN,POINT(75.548752 11.819047),THE PAYYANUR CO OPERATIVE HOSPITAL SOCIETY LTD  SOUTH BAZAR  PAYYANUR  PAYYANUR PO  KANNUR  Kannur
+118,LEO CLINICAL DIAGNOSTIC CENTRE LLP ,LEO CLINICAL DIAGNOSTIC CENTRE LLP  Opp G mall  South Bazar Kannur,Kannur,ANTIGEN,POINT(75.358829 11.862946),LEO CLINICAL DIAGNOSTIC CENTRE LLP  Opp G mall  South Bazar Kannur  Kannur
+119,CnC Hitech Lab,CnC Hitech Lab  Nr sub registrar office  Eripuram  Payangadi  Kannur,Kannur,ANTIGEN,POINT( 75.2659667 12.0298778 ),CnC Hitech Lab  Nr sub registrar office  Eripuram  Payangadi  Kannur
+120,Gimcare Hospital,Gimcare Hospital Building No: 32/1094/1-8  Chala Bypass  Thottada (PO  Kannur,Kannur,ANTIGEN,POINT(75.426877 11.848199),Gimcare Hospital Building No: 32/1094/1-8  Chala Bypass  Thottada (PO  Kannur  Kannur
+121,Taliparamba Co-operative Hospital Society,Taliparamba Co-operative Hospital Society  Taliparamba,Kannur,ANTIGEN,POINT(75.37284 12.04359),Taliparamba Co-operative Hospital Society  Taliparamba  Kannur
+122,Lourde Hospital,Lourde Hospital  Thalliparamba  Kannur,Kannur,ANTIGEN,POINT(75.355537 12.041544),Lourde Hospital  Thalliparamba  Kannur  Kannur
+123,Koyili Hospital,Koyili Hospital  Talap  Kannur,Kannur,ANTIGEN,POINT(75.3708095419588 11.88719365),Koyili Hospital  Talap  Kannur  Kannur
+124,Dhanalakshmi Hospital Pvt Ltd,Dhanalakshmi Hospital Pvt Ltd  Kannothumchal Road  Kannur,Kannur,ANTIGEN,POINT(75.358829 11.862946),Dhanalakshmi Hospital Pvt Ltd  Kannothumchal Road  Kannur  Kannur
+125,Amala Multi Specialty Hospital,Amala Multi Specialty Hospital  Keezhur  Iritty  Kannur,Kannur,ANTIGEN,POINT(75.671376 11.97973),Amala Multi Specialty Hospital  Keezhur  Iritty  Kannur  Kannur
+126,Specialty Hospital,Specialty Hospital  Thana  Kannur,Kannur,ANTIGEN,POINT(75.372761 11.877613),Specialty Hospital  Thana  Kannur  Kannur
+127,Christuraj Hospital,Christuraj Hospital  Thokkilangadi  Nirmalgiri  Koothuparamba  Kannur,Kannur,ANTIGEN,POINT(75.372761 11.877613),Christuraj Hospital  Thokkilangadi  Nirmalgiri  Koothuparamba  Kannur  Kannur
+128,Neethi Lab ,Neethi Lab   Thalassery  Kannur,Kannur,ANTIGEN,POINT(75.572625 11.930267),Neethi Lab   Thalassery  Kannur  Kannur
+129,Josgiri Hospital,Josgiri Hospital  Thalassery  Kannur,Kannur,ANTIGEN,POINT(75.4787704 11.7593082),Josgiri Hospital  Thalassery  Kannur  Kannur
+130,St Sebastian's Hospital. Kakkayamchal,St Sebastian's Hospital. Kakkayamchal  Cherupuzha  Kannur,Kannur,ANTIGEN,POINT( 75.3562528 12.2692417 ),St Sebastian's Hospital. Kakkayamchal  Cherupuzha  Kannur
+131,Saba Hospital,Saba Hospital  Near Gandhi Park  Payyannur,Kannur,ANTIGEN,POINT(75.503176 11.822946),Saba Hospital  Near Gandhi Park  Payyannur  Kannur
+132,Tellicherry Co-Operative Hospital,Tellicherry Co-Operative Hospital  Kannur,Kannur,ANTIGEN,POINT(75.479678 11.764102),Tellicherry Co-Operative Hospital  Kannur  Kannur
+133,Thalassery Mission Hospital Pvt Ltd,Thalassery Mission Hospital Pvt Ltd  Goods Shed Road  Thalassery  Kannur,Kannur,ANTIGEN,POINT(75.21467 12.1006),Thalassery Mission Hospital Pvt Ltd  Goods Shed Road  Thalassery  Kannur  Kannur
+134,Sreechand Speciality Hospitals Pvt.Ltd,Sreechand Speciality Hospitals Pvt.Ltd  Near SN Park Kannur,Kannur,ANTIGEN,POINT(75.358829 11.862946),Sreechand Speciality Hospitals Pvt.Ltd  Near SN Park Kannur  Kannur
+135,THE LAB,THE LAB  Green Valley  Kambil  Kannur  Kerala,Kannur,ANTIGEN,POINT(76.891754 9.676092),THE LAB  Green Valley  Kambil  Kannur  Kerala  Kannur
+136,City Institute of Medical Sciences Kerala Pvt. Ltd- Sunrise Hospital,City Institute of Medical Sciences Kerala Pvt. Ltd- Sunrise Hospital Kanhangad Kasaragod,Kannur,ANTIGEN,POINT( 75.0952778 12.3324250 ),City Institute of Medical Sciences Kerala Pvt. Ltd- Sunrise Hospital Kanhangad Kasaragod
+137,KDC LAB,KDC LAB  Opp. Little Flower School  Puthiyakotta Kanhnangad  Kasargode,Kasaragod,ANTIGEN,POINT(75.094012 12.348104),KDC LAB  Opp. Little Flower School  Puthiyakotta Kanhnangad  Kasargode  Kasaragod
+138,DDRC SRL,DDRC SRL Opposite to Malabar Gold & Padma Clinic  Kanhangad  Kasaragod,Kasaragod,ANTIGEN,POINT(76.578955 9.978285),DDRC SRL Opposite to Malabar Gold & Padma Clinic  Kanhangad  Kasaragod  Kasaragod
+139,INDIAN DIAGNOSTIC LABORATORY(IDL,INDIAN DIAGNOSTIC LABORATORY(IDL  KOTTACHERRY KANHANGAD,Kasaragod,ANTIGEN,POINT( 75.0869667 12.3236278 ),INDIAN DIAGNOSTIC LABORATORY(IDL  KOTTACHERRY KANHANGAD
+140,Kasargod Institute of Medical Science,Kasargod Institute of Medical Science Ashwini Nagar  Kasargod,Kasaragod,ANTIGEN,POINT(74.988872 12.676126),Kasargod Institute of Medical Science Ashwini Nagar  Kasargod  Kasaragod
+141,Carewell Hospital & Research Centre,Carewell Hospital & Research Centre  Nullipady  Kasaragod,Kasaragod,ANTIGEN,POINT(77.3211242 28.4339848),Carewell Hospital & Research Centre  Nullipady  Kasaragod  Kasaragod
+142,DDC LAB,DDC LAB TIGER HILLS  PULIKKUNNU ROAD  KASARAGOD,Kasaragod,ANTIGEN,POINT(74.94035 12.615349),DDC LAB TIGER HILLS  PULIKKUNNU ROAD  KASARAGOD  Kasaragod
+143,Janardan Hospital,Janardan Hospital  Bank Road  Kasaragod,Kasaragod,ANTIGEN,POINT(74.94035 12.615349),Janardan Hospital  Bank Road  Kasaragod  Kasaragod
+144,Malik Deeanar Charitable Hospital,Malik Deeanar Charitable Hospital  Thalangara  Kasaragod,Kasaragod,ANTIGEN,POINT( 74.9914778 12.4849278 ),Malik Deeanar Charitable Hospital  Thalangara  Kasaragod
+145,Neethi Lab,Neethi Lab  Kasargode  Bank Road Kasargode,Kasaragod,ANTIGEN,POINT(74.94035 12.615349),Neethi Lab  Kasargode  Bank Road Kasargode  Kasaragod
+146,Neethi Lab,Neethi Lab  Near Regal Tourist Home  Railway Station Road  Kanhangad,Kasaragod,ANTIGEN,POINT(75.100393 12.30646),Neethi Lab  Near Regal Tourist Home  Railway Station Road  Kanhangad  Kasaragod
+147,Devi Clinical Laboratory,Devi Clinical Laboratory  Kollam,Kasaragod,ANTIGEN,POINT( 76.5887139 8.8869000 ),Devi Clinical Laboratory  Kollam
+148,EK Nayanar Memorial,EK Nayanar Memorial  Co Operative Hospital  Chengala  Kasargod,Kasaragod,ANTIGEN,POINT(75.035313 12.510117),EK Nayanar Memorial  Co Operative Hospital  Chengala  Kasargod  Kasaragod
+149,UNITED MEDICAL CENTER,UNITED MEDICAL CENTER  KOTEKANI ROAD  KASARAGOD,Kasaragod,ANTIGEN,POINT(74.94035 12.615349),UNITED MEDICAL CENTER  KOTEKANI ROAD  KASARAGOD  Kasaragod
+150,G K CLINICAL LABORATORY,G K CLINICAL LABORATORY  MADHAVA PAI BUILDING   BADIADKA ROAD   KUMBALA  KASARAGOD,Kasaragod,ANTIGEN,POINT(75.072783 12.583776),G K CLINICAL LABORATORY  MADHAVA PAI BUILDING   BADIADKA ROAD   KUMBALA  KASARAGOD  Kasaragod
+151,DDRC SRL Diagnostics Pvt Ltd,DDRC SRL Diagnostics Pvt Ltd  Chinnakkada  Kollam.,Kollam,ANTIGEN,POINT( 76.5862306 8.8880972 ),DDRC SRL Diagnostics Pvt Ltd  Chinnakkada  Kollam.
+152,Travancore Medicity Medical College,Travancore Medicity Medical College  Kollam,Kollam,ANTIGEN,POINT(76.64496 8.875216),Travancore Medicity Medical College  Kollam  Kollam
+153,Holy cross Hospital,Holy cross Hospital  Kottiyam,Kollam,ANTIGEN,POINT(76.86147 8.89842),Holy cross Hospital  Kottiyam  Kollam
+154,Meditrina hospital laboratory,Meditrina hospital laboratory Ayathil  Kollam ,Kollam,ANTIGEN,POINT(76.600777 8.895683),Meditrina hospital laboratory Ayathil  Kollam   Kollam
+155,Matha Medical Centre,Matha Medical Centre Mathilil Kollam,Kollam,ANTIGEN,POINT(76.53413 8.98664),Matha Medical Centre Mathilil Kollam  Kollam
+156,DDRC SRL Diagnostics Pvt. Ltd. ,DDRC SRL Diagnostics Pvt. Ltd.   City Tower  Kottarakkara  Kollam,Kollam,ANTIGEN,POINT( 76.7776917 9.0056306 ),DDRC SRL Diagnostics Pvt. Ltd.   City Tower  Kottarakkara  Kollam
+157,Dr Nair's Hospital,Dr Nair's Hospital  Kollam,Kollam,ANTIGEN,POINT(76.598888 8.894851),Dr Nair's Hospital  Kollam  Kollam
+158,NS Memorial Institute of Medical Sciences,NS Memorial Institute of Medical Sciences  Palathara  Kollam,Kollam,ANTIGEN,POINT(76.597863 8.889812),NS Memorial Institute of Medical Sciences  Palathara  Kollam  Kollam
+159,DDRC SRL Diagnostic Services Pvt Ltd,DDRC SRL Diagnostic Services Pvt Ltd  Sri sri building  Parippally  Kollam,Kollam,ANTIGEN,POINT( 76.7531306 8.8126194 ),DDRC SRL Diagnostic Services Pvt Ltd  Sri sri building  Parippally  Kollam
+160,KIMS Kollam Multispecialty Hospital India Pvt. Ltd.,KIMS Kollam Multispecialty Hospital India Pvt. Ltd.,Kollam,ANTIGEN,POINT(76.766212 8.906271),KIMS Kollam Multispecialty Hospital India Pvt. Ltd.  Kollam
+161,Padmavathy Medical Foundation,Padmavathy Medical Foundation Manakkara Sasthamcotta P.O. Kollam,Kollam,ANTIGEN,POINT(76.643791 8.868801),Padmavathy Medical Foundation Manakkara Sasthamcotta P.O. Kollam  Kollam
+162,St Josephs Mission Hospital Anchal Kollam,St Josephs Mission Hospital Anchal Kollam,Kollam,ANTIGEN,POINT(76.9180392 8.9294212),St Josephs Mission Hospital Anchal Kollam  Kollam
+163,UPASANA HOSPITAL,UPASANA HOSPITAL  Q S Road Kollam,Kollam,ANTIGEN,POINT(76.596861 8.888766),UPASANA HOSPITAL  Q S Road Kollam  Kollam
+164,BIOVISION CLINICAL LAB,BIOVISION CLINICAL LAB  NEAR SBI  MC ROAD  VALAKOM  KOTTARAKKARA,Kollam,ANTIGEN,POINT(76.600777 8.895683),BIOVISION CLINICAL LAB  NEAR SBI  MC ROAD  VALAKOM  KOTTARAKKARA  Kollam
+165,Quality Care Diagnostic Centre,Quality Care Diagnostic Centre  Town Plaza  Pulamon  Kottarakkara,Kollam,ANTIGEN,POINT(76.924767 9.018006),Quality Care Diagnostic Centre  Town Plaza  Pulamon  Kottarakkara  Kollam
+166,VIJAYA HOSPITAL,VIJAYA HOSPITAL PULAMON P O KOTTARAKKARA,Kollam,ANTIGEN,POINT(76.610283 8.887522),VIJAYA HOSPITAL PULAMON P O KOTTARAKKARA  Kollam
+167,Bishop benziger Hospital,Bishop benziger Hospital  Beach Road  Kollam,Kollam,ANTIGEN,POINT(76.5932034 8.8811141),Bishop benziger Hospital  Beach Road  Kollam  Kollam
+168,Poyanil Hospital Punalur,Poyanil Hospital Punalur,Kollam,ANTIGEN,POINT(76.9098598 9.0201408),Poyanil Hospital Punalur  Kollam
+169,Pazhaveedu Medical Care Specialty Hospital,Pazhaveedu Medical Care Specialty Hospital  Pulamon PO  Kottarakkara,Kollam,ANTIGEN,POINT(76.588207 8.900546),Pazhaveedu Medical Care Specialty Hospital  Pulamon PO  Kottarakkara  Kollam
+170,DDRC SRL Diagnostics Private Limited,DDRC SRL Diagnostics Private Limited Gandhi Nagar Kottayam,Kollam,ANTIGEN,POINT( 76.5394556 9.6254361 ),DDRC SRL Diagnostics Private Limited Gandhi Nagar Kottayam
+171,Azeezia Medical College Hospital,Azeezia Medical College Hospital  Meeyannoor,Kollam,ANTIGEN,POINT(76.737682 8.889542),Azeezia Medical College Hospital  Meeyannoor  Kollam
+172,Bharath Hospital,Bharath Hospital  Kottayam,Kottayam,ANTIGEN,POINT(76.5195727 9.5894925),Bharath Hospital  Kottayam  Kottayam
+173,St. Thomas Hospital,St. Thomas Hospital  Chethipuzha  Changanassery,Kottayam,ANTIGEN,POINT(76.5523465 9.4625088),St. Thomas Hospital  Chethipuzha  Changanassery  Kottayam
+174,Little Lourdes Mission Hospital Kidangoor Kottayam,Little Lourdes Mission Hospital Kidangoor Kottayam,Kottayam,ANTIGEN,POINT( 76.6122194 9.6835889 ),Little Lourdes Mission Hospital Kidangoor Kottayam
+175,HOLY GHOST MISSION HOSPITAL,HOLY GHOST MISSION HOSPITAL  KOTTAYAM,Kottayam,ANTIGEN,POINT(76.4997662 9.7572053),HOLY GHOST MISSION HOSPITAL  KOTTAYAM  Kottayam
+176,Marian Medical Centre,Marian Medical Centre  Arunapuram P.O Pala,Kottayam,ANTIGEN,POINT(76.529395 9.593534),Marian Medical Centre  Arunapuram P.O Pala  Kottayam
+177,MERCY HOSPITAL POTHY,MERCY HOSPITAL POTHY Thalayolaparambu,Kottayam,ANTIGEN,POINT(76.707593 9.617695),MERCY HOSPITAL POTHY Thalayolaparambu  Kottayam
+178,Marsleeva Medicity Palai,Marsleeva Medicity Palai,Kottayam,ANTIGEN,POINT(76.64412 9.679821),Marsleeva Medicity Palai  Kottayam
+179,SH Medical Centre ,SH Medical Centre  Nagampadom  Kottayam,Kottayam,ANTIGEN,POINT(76.529395 9.593534),SH Medical Centre  Nagampadom  Kottayam  Kottayam
+180,Aravinda Hospitals,Aravinda Hospitals  Ponkunnam  Kottayam,Kottayam,ANTIGEN,POINT( 76.7644611 9.5577250 ),Aravinda Hospitals  Ponkunnam  Kottayam
+181,Indo American Hospital,Indo American Hospital  Kottayam.,Kottayam,ANTIGEN,POINT(76.3925812 9.7216807),Indo American Hospital  Kottayam.  Kottayam
+182,Mannam Memorial NSS Medical Mission Hospital,Mannam Memorial NSS Medical Mission Hospital  Karukachal  Kottayam,Kottayam,ANTIGEN,POINT( 76.6334444 9.4994306 ),Mannam Memorial NSS Medical Mission Hospital  Karukachal  Kottayam
+183,KIMS BELLEROSE INSTITUTE OF MEDICAL SCIENCES,KIMS BELLEROSE INSTITUTE OF MEDICAL SCIENCES Thoothooty Junction  Kudamaloor P.O  Kottayam,Kottayam,ANTIGEN,POINT(76.529574 9.588253),KIMS BELLEROSE INSTITUTE OF MEDICAL SCIENCES Thoothooty Junction  Kudamaloor P.O  Kottayam  Kottayam
+184,Carmel Medical Centre,Carmel Medical Centre  Kizhathadiyoor PO Pala  Kottayam,Kottayam,ANTIGEN,POINT(76.662176 9.706096),Carmel Medical Centre  Kizhathadiyoor PO Pala  Kottayam  Kottayam
+185,IHM Hospital,IHM Hospital  Bharananganam  Kottayam,Kottayam,ANTIGEN,POINT(76.7192486 9.704762),IHM Hospital  Bharananganam  Kottayam  Kottayam
+186,Velankanni Matha Private Hospitals Pvt Ltd,Velankanni Matha Private Hospitals Pvt Ltd  Thellakom  Kottayam,Kottayam,ANTIGEN,POINT(76.521813 9.592989),Velankanni Matha Private Hospitals Pvt Ltd  Thellakom  Kottayam  Kottayam
+187,Indo American Hospital West Gate,Indo American Hospital West Gate  Vaikom Kottayam,Kottayam,ANTIGEN,POINT(76.398802 9.758329),Indo American Hospital West Gate  Vaikom Kottayam  Kottayam
+188,Mary Queens Mission Hospital,Mary Queens Mission Hospital  Kanjirappally  Kottayam,Kottayam,ANTIGEN,POINT(76.8139820115885 9.55804385),Mary Queens Mission Hospital  Kanjirappally  Kottayam  Kottayam
+189,M U M Hospital Monipally,M U M Hospital Monipally  Kottayam,Kottayam,ANTIGEN,POINT(76.563539 9.811305),M U M Hospital Monipally  Kottayam  Kottayam
+190,St. Vincent Hospital,St. Vincent Hospital  Kuravilangadu,Kottayam,ANTIGEN,POINT(76.562982 9.751363),St. Vincent Hospital  Kuravilangadu  Kottayam
+191,Caritas Hospital,Caritas Hospital Thellakom  Kottayam,Kottayam,ANTIGEN,POINT(76.549316 9.64525),Caritas Hospital Thellakom  Kottayam  Kottayam
+192,Mitera Hospitals Pvt Ltd,Mitera Hospitals Pvt Ltd  Thellakom. P O  Kottayam,Kottayam,ANTIGEN,POINT(76.521813 9.592989),Mitera Hospitals Pvt Ltd  Thellakom. P O  Kottayam  Kottayam
+193,PMC Hospital,PMC Hospital  Erattupetta  Kottayam,Kottayam,ANTIGEN,POINT(76.7821158572397 9.6856663),PMC Hospital  Erattupetta  Kottayam  Kottayam
+194,Base Hospital,Base Hospital  Manarcadu  Kottayam,Kottayam,ANTIGEN,POINT(76.578054 9.590942),Base Hospital  Manarcadu  Kottayam  Kottayam
+195,Paret Mar Ivanios Hospital,Paret Mar Ivanios Hospital  Puthuppally Kottayam,Kottayam,ANTIGEN,POINT(76.5666789 9.5531815),Paret Mar Ivanios Hospital  Puthuppally Kottayam  Kottayam
+196,Mar Kavukatt Memorial Hospital,Mar Kavukatt Memorial Hospital Pravithanam Kottayam,Kottayam,ANTIGEN,POINT(76.703386 9.7473158),Mar Kavukatt Memorial Hospital Pravithanam Kottayam  Kottayam
+197,Cherupushpam Trust Hospital,Cherupushpam Trust Hospital  Pala  Kottayam,Kottayam,ANTIGEN,POINT(76.564662 9.762057),Cherupushpam Trust Hospital  Pala  Kottayam  Kottayam
+198,DSH Hospital,DSH Hospital  Kalatipady  Kottayam,Kottayam,ANTIGEN,POINT(76.549316 9.64525),DSH Hospital  Kalatipady  Kottayam  Kottayam
+199,Assissi Hospital,Assissi Hospital  Mukkoottuthura  Erumeli  Kottayam,Kottayam,ANTIGEN,POINT(76.431201 9.821518),Assissi Hospital  Mukkoottuthura  Erumeli  Kottayam  Kottayam
+200,Rani Hospital,Rani Hospital  Kanjirappally  Kottayam,Kottayam,ANTIGEN,POINT(76.8016530961981 9.55927465),Rani Hospital  Kanjirappally  Kottayam  Kottayam
+201,Dianova Laboratories,Dianova Laboratories   Gandhi Nagar  Kottayam,Kottayam,ANTIGEN,POINT(76.77544 9.629778),Dianova Laboratories   Gandhi Nagar  Kottayam  Kottayam
+202,Dharmagiri St.Joseph Hospital,Dharmagiri St.Joseph Hospital  Mukkam,Kottayam,ANTIGEN,POINT( 75.9858639 11.3309944 ),Dharmagiri St.Joseph Hospital  Mukkam
+203,Alphonsa Eye Hospital,Alphonsa Eye Hospital  Pala,Kottayam,ANTIGEN,POINT(76.6765231 9.7088081),Alphonsa Eye Hospital  Pala  Kottayam
+204,Kadampuzha Hospital,Kadampuzha Hospital  Kanjirappally,Kottayam,ANTIGEN,POINT(76.549316 9.64525),Kadampuzha Hospital  Kanjirappally  Kottayam
+205,Udayagiri Multispecialty Hospital,Udayagiri Multispecialty Hospital  Perunna  Changanassery,Kottayam,ANTIGEN,POINT(76.545913 9.444283),Udayagiri Multispecialty Hospital  Perunna  Changanassery  Kottayam
+206,Vaikom Sathyagraha Memorial hospital,Vaikom Sathyagraha Memorial hospital  Kottayam,Kottayam,ANTIGEN,POINT(76.3900684 9.7491342),Vaikom Sathyagraha Memorial hospital  Kottayam  Kottayam
+207,NSS Medical Mission Hospital,NSS Medical Mission Hospital  Perunna  Changanacherry  Kottayam,Kottayam,ANTIGEN,POINT(76.543793 9.439091),NSS Medical Mission Hospital  Perunna  Changanacherry  Kottayam  Kottayam
+208,Meitra Hospital,Meitra Hospital  Kozhikode,Kozhikode,ANTIGEN,POINT(75.7746971907723 11.3017425),Meitra Hospital  Kozhikode  Kozhikode
+209,Baby memorial hospital,Baby memorial hospital  Kozhikode,Kozhikode,ANTIGEN,POINT(75.7920593073821 11.2600608),Baby memorial hospital  Kozhikode  Kozhikode
+210,IQRAA,IQRAA  Kozhikode,Kozhikode,ANTIGEN,POINT(75.7982876 11.2863772),IQRAA  Kozhikode  Kozhikode
+211,Malabar multispeciality centre,Malabar multispeciality centre Eranhipalam,Kozhikode,ANTIGEN,POINT(75.968945 11.141789),Malabar multispeciality centre Eranhipalam  Kozhikode
+212,Nirmala Hospital,Nirmala Hospital  Calicut,Kozhikode,ANTIGEN,POINT(75.824588 11.291804),Nirmala Hospital  Calicut  Kozhikode
+213,Starcare Hospital,Starcare Hospital  Kozhikode,Kozhikode,ANTIGEN,POINT(75.8094562527893 11.2690819),Starcare Hospital  Kozhikode  Kozhikode
+214,Saroj Diagnostic Laboratory,Saroj Diagnostic Laboratory  Malaparamba  Kozhikode,Kozhikode,ANTIGEN,POINT( 75.8006472 11.2882000 ),Saroj Diagnostic Laboratory  Malaparamba  Kozhikode
+215,ASTER MIMS Kozhikode,ASTER MIMS Kozhikode,Kozhikode,ANTIGEN,POINT(75.805073 11.278596),ASTER MIMS Kozhikode  Kozhikode
+216,IQRAA Community hospital thottilpalam,IQRAA Community hospital thottilpalam  Kozhikode,Kozhikode,ANTIGEN,POINT( 75.7721111 11.6730417 ),IQRAA Community hospital thottilpalam  Kozhikode
+217,AZA DIAGNOSTIC CENTRE,AZA DIAGNOSTIC CENTRE,Kozhikode,ANTIGEN,POINT( 75.7889778 11.2555028 ),AZA DIAGNOSTIC CENTRE
+218,MicroHealth Laboratories,MicroHealth Laboratories  Arayidathupalam  Kozhikode,Kozhikode,ANTIGEN,POINT(75.805073 11.278596),MicroHealth Laboratories  Arayidathupalam  Kozhikode  Kozhikode
+219,Santhi Hospital,Santhi Hospital  Omassery  Kozhikode,Kozhikode,ANTIGEN,POINT(75.9646573 11.3626369),Santhi Hospital  Omassery  Kozhikode  Kozhikode
+220,Chest Hospital,Chest Hospital  Pavamani Road  Kozhikode,Kozhikode,ANTIGEN,POINT(75.784093 11.25519),Chest Hospital  Pavamani Road  Kozhikode  Kozhikode
+221,KMCT Medical College Hospital,KMCT Medical College Hospital Manassery(P Mukkam(Via,Kozhikode,ANTIGEN,POINT(75.97062 11.326108),KMCT Medical College Hospital Manassery(P Mukkam(Via  Kozhikode
+222,Asten Specialty Orthopaedic Hospital,Asten Specialty Orthopaedic Hospital  Pantheerankavu  Kozhikode,Kozhikode,ANTIGEN,POINT( 75.8514917 11.2317639 ),Asten Specialty Orthopaedic Hospital  Pantheerankavu  Kozhikode
+223,Malabar Medical College & Research Centre,Malabar Medical College & Research Centre  Kozhikode,Kozhikode,ANTIGEN,POINT(75.7762529 11.4335599),Malabar Medical College & Research Centre  Kozhikode  Kozhikode
+224,DDRC SRL Diagnostics Pvt Ltd,DDRC SRL Diagnostics Pvt Ltd  Sana Tower  Devagiri College Road  Medical College PO. Calict,Kozhikode,ANTIGEN,POINT( 75.8371806 11.2698917 ),DDRC SRL Diagnostics Pvt Ltd  Sana Tower  Devagiri College Road  Medical College PO. Calict
+225,Koduvally Institute of Medical Science,Koduvally Institute of Medical Science  Pvt  Ltd,Kozhikode,ANTIGEN,POINT(76.005711 11.801847),Koduvally Institute of Medical Science  Pvt  Ltd  Kozhikode
+226,EMS Co-op hospital,EMS Co-op hospital  Mukkam,Kozhikode,ANTIGEN,POINT(75.991861 11.325945),EMS Co-op hospital  Mukkam  Kozhikode
+227,Aliya Diagnostic and Research Centre,Aliya Diagnostic and Research Centre Medical College  Kozhikode,Kozhikode,ANTIGEN,POINT(75.849134 11.554621),Aliya Diagnostic and Research Centre Medical College  Kozhikode  Kozhikode
+228,Asha Hospital,Asha Hospital  Vadakara  Kozhikode,Kozhikode,ANTIGEN,POINT(75.5898404 11.6046063),Asha Hospital  Vadakara  Kozhikode  Kozhikode
+229,ASWINI DIAGNOSTIC SERVICES,ASWINI DIAGNOSTIC SERVICES  Chinthavalappu KOZHIKODE,Kozhikode,ANTIGEN,POINT( 75.7880278 11.2517389 ),ASWINI DIAGNOSTIC SERVICES  Chinthavalappu KOZHIKODE
+230,Cradle Calicut ,Cradle Calicut  Maternity Care Pvt Limited  Calicut,Kozhikode,ANTIGEN,POINT(75.843912 11.553887),Cradle Calicut  Maternity Care Pvt Limited  Calicut  Kozhikode
+231,MVR Cancer Centre & Research Institute,MVR Cancer Centre & Research Institute Calicut,Kozhikode,ANTIGEN,POINT(75.9468168 11.2945142),MVR Cancer Centre & Research Institute Calicut  Kozhikode
+232,RED CRESCENT HOSPITAL,RED CRESCENT HOSPITAL  Feroke,Kozhikode,ANTIGEN,POINT(75.84823 11.182548),RED CRESCENT HOSPITAL  Feroke  Kozhikode
+233,R Cell Diagnostics,R Cell Diagnostics  Arayidathupalam  Kozhikode,Kozhikode,ANTIGEN,POINT(75.805073 11.278596),R Cell Diagnostics  Arayidathupalam  Kozhikode  Kozhikode
+234,Metromed International Cardiac Centre,Metromed International Cardiac Centre  Thondayad Bypass Road  G A College P O Kozhikode  Kerala,Kozhikode,ANTIGEN,POINT(75.836078 11.245356),Metromed International Cardiac Centre  Thondayad Bypass Road  G A College P O Kozhikode  Kerala  Kozhikode
+235,KARUNYA HEALTH CARE,KARUNYA HEALTH CARE  Jafar Khan Colony road  Calicut -6,Kozhikode,ANTIGEN,POINT(75.834387 11.479802),KARUNYA HEALTH CARE  Jafar Khan Colony road  Calicut -6  Kozhikode
+236,Ceeyam Hospital,Ceeyam Hospital  V O Road  Vatakara,Kozhikode,ANTIGEN,POINT(75.805073 11.278596),Ceeyam Hospital  V O Road  Vatakara  Kozhikode
+237,Care Reference Laboratories.,Care Reference Laboratories.  Velliparamba Calicut,Kozhikode,ANTIGEN,POINT(75.725133 11.393558),Care Reference Laboratories.  Velliparamba Calicut  Kozhikode
+238,Lisa Hospital,Lisa Hospital Thiruvampadi  Kozhikode,Kozhikode,ANTIGEN,POINT(76.012716 11.361585),Lisa Hospital Thiruvampadi  Kozhikode  Kozhikode
+239,EMS Memorial Co-operative Hospital ,EMS Memorial Co-operative Hospital  Perambra  Kozhikode,Kozhikode,ANTIGEN,POINT(75.694225 11.444566),EMS Memorial Co-operative Hospital  Perambra  Kozhikode  Kozhikode
+240,IQRAA Community Clinic,IQRAA Community Clinic  Kallai  Calicut,Kozhikode,ANTIGEN,POINT(75.834387 11.479802),IQRAA Community Clinic  Kallai  Calicut  Kozhikode
+241,Micro Health Laboratories,Micro Health Laboratories  MP Tower  Next to Lavanya Plaza  Near Taluk Hospital  Thamarassery  Kozhikode,Kozhikode,ANTIGEN,POINT( 75.7946833 11.2583139 ),Micro Health Laboratories  MP Tower  Next to Lavanya Plaza  Near Taluk Hospital  Thamarassery  Kozhikode
+242,Fathima Hospital,Fathima Hospital Bank Road Calicut,Kozhikode,ANTIGEN,POINT(75.834387 11.479802),Fathima Hospital Bank Road Calicut  Kozhikode
+243,R.M. HOSPITAL,R.M. HOSPITAL BEYPORE CALICUT,Kozhikode,ANTIGEN,POINT(75.80703 11.176742),R.M. HOSPITAL BEYPORE CALICUT  Kozhikode
+244,Doctors Lab,Doctors Lab  Payyoli  Kozhikode,Kozhikode,ANTIGEN,POINT(75.6212299 11.5159889),Doctors Lab  Payyoli  Kozhikode  Kozhikode
+245,Amana Hospital,Amana Hospital  Adukath PO  Kozhikode,Kozhikode,ANTIGEN,POINT(75.759923 11.651943),Amana Hospital  Adukath PO  Kozhikode  Kozhikode
+246,Vadakara Co operative Hospital,Vadakara Co operative Hospital  Kozhikode,Kozhikode,ANTIGEN,POINT(75.595315 11.589687),Vadakara Co operative Hospital  Kozhikode  Kozhikode
+247,Amal Hospitals and Research Center,Amal Hospitals and Research Center  Perumalpuram  Thikoti  Kozhikode,Kozhikode,ANTIGEN,POINT(75.62501 11.506824),Amal Hospitals and Research Center  Perumalpuram  Thikoti  Kozhikode  Kozhikode
+248,Dr.Scan Diagnostic Centre,Dr.Scan Diagnostic Centre  A Unit of Sreekumar&Abilash Healthcare Pvt Ltd Near Arayedathupalam Mavoor Road Kozhikode,Kozhikode,ANTIGEN,POINT(72.833448 19.055567),Dr.Scan Diagnostic Centre  A Unit of Sreekumar&Abilash Healthcare Pvt Ltd Near Arayedathupalam Mavoor Road Kozhikode  Kozhikode
+249,DOCTORS LAB,DOCTORS LAB Near CHC Meladi  Perumal Puram  Thikkoti PO KOZHIKODE,Kozhikode,ANTIGEN,POINT( 75.7872833 11.2596528 ),DOCTORS LAB Near CHC Meladi  Perumal Puram  Thikkoti PO KOZHIKODE
+250,Micro Diagnostics,Micro Diagnostics  Opp: City Medicals  Near Old Bus Stand  Kuttiadi  Kozhikode,Kozhikode,ANTIGEN,POINT(75.620442 11.515529),Micro Diagnostics  Opp: City Medicals  Near Old Bus Stand  Kuttiadi  Kozhikode  Kozhikode
+251,DOCTORS SPECIALTY LAB,DOCTORS SPECIALTY LAB Near Govt Taluk Hospital  Ballusery Mukku  Vattoli Bazar,Kozhikode,ANTIGEN,POINT(75.828185 11.312065),DOCTORS SPECIALTY LAB Near Govt Taluk Hospital  Ballusery Mukku  Vattoli Bazar  Kozhikode
+252,TMH Hospital,TMH Hospital  Kottakadavu  Kadalundi  Kozhikode,Kozhikode,ANTIGEN,POINT(75.8375018 11.1387853),TMH Hospital  Kottakadavu  Kadalundi  Kozhikode  Kozhikode
+253,MAK Hospitals Pvt Ltd,MAK Hospitals Pvt Ltd  Cheruvannur  Feroke- Post  Kozhikode,Kozhikode,ANTIGEN,POINT(75.805073 11.278596),MAK Hospitals Pvt Ltd  Cheruvannur  Feroke- Post  Kozhikode  Kozhikode
+254,Korambayil Hospital and Diagnostic Centre Pvt Ltd,Korambayil Hospital and Diagnostic Centre Pvt Ltd  Manjeri,Kozhikode,ANTIGEN,POINT( 76.1258167 11.1228556 ),Korambayil Hospital and Diagnostic Centre Pvt Ltd  Manjeri
+255,Dharu Shifa,Dharu Shifa  Kallampara  Perumugham P O  Feroke  Kozhikode,Kozhikode,ANTIGEN,POINT(75.776255 11.270665),Dharu Shifa  Kallampara  Perumugham P O  Feroke  Kozhikode  Kozhikode
+255,Dharu Shifa,Dharu Shifa  Kallampara  Perumugham P O  Feroke  Kozhikode,Kozhikode,ANTIGEN,POINT(75.776255 11.270665),Dharu Shifa  Kallampara  Perumugham P O  Feroke  Kozhikode  Kozhikode
+256,KIMS AL SHIFA,KIMS AL SHIFA  MALAPPURAM,Malappuram,ANTIGEN,POINT(76.2238107368796 10.9845734),KIMS AL SHIFA  MALAPPURAM  Malappuram
+256,KIMS AL SHIFA,KIMS AL SHIFA  MALAPPURAM,Malappuram,ANTIGEN,POINT(76.2238107368796 10.9845734),KIMS AL SHIFA  MALAPPURAM  Malappuram
+257,Edappal Hospitals,Edappal Hospitals  Malappuram,Malappuram,ANTIGEN,POINT(76.0108005 10.7820357),Edappal Hospitals  Malappuram  Malappuram
+257,Edappal Hospitals,Edappal Hospitals  Malappuram,Malappuram,ANTIGEN,POINT(76.0108005 10.7820357),Edappal Hospitals  Malappuram  Malappuram
+258,IQRAA Community Hospital Vazhakkad,IQRAA Community Hospital Vazhakkad  Malappuram,Malappuram,ANTIGEN,POINT(75.950907 11.248108),IQRAA Community Hospital Vazhakkad  Malappuram  Malappuram
+258,IQRAA Community Hospital Vazhakkad,IQRAA Community Hospital Vazhakkad  Malappuram,Malappuram,ANTIGEN,POINT(75.950907 11.248108),IQRAA Community Hospital Vazhakkad  Malappuram  Malappuram
+259,IBNU SEENA MEDICAL CENTRE,IBNU SEENA MEDICAL CENTRE  Manjeri,Malappuram,ANTIGEN,POINT(76.1143048 11.121048),IBNU SEENA MEDICAL CENTRE  Manjeri  Malappuram
+259,IBNU SEENA MEDICAL CENTRE,IBNU SEENA MEDICAL CENTRE  Manjeri,Malappuram,ANTIGEN,POINT(76.1143048 11.121048),IBNU SEENA MEDICAL CENTRE  Manjeri  Malappuram
+260,Aster MIMS - Kottakkal,Aster MIMS - Kottakkal  Malappuram,Malappuram,ANTIGEN,POINT(75.9938413013057 10.9960453),Aster MIMS - Kottakkal  Malappuram  Malappuram
+260,Aster MIMS - Kottakkal,Aster MIMS - Kottakkal  Malappuram,Malappuram,ANTIGEN,POINT(75.9938413013057 10.9960453),Aster MIMS - Kottakkal  Malappuram  Malappuram
+261,sukapuram Hospital,sukapuram Hospital  Edappal  Malappuram,Malappuram,ANTIGEN,POINT(76.0094647 10.7789104),sukapuram Hospital  Edappal  Malappuram  Malappuram
+261,sukapuram Hospital,sukapuram Hospital  Edappal  Malappuram,Malappuram,ANTIGEN,POINT(76.0094647 10.7789104),sukapuram Hospital  Edappal  Malappuram  Malappuram
+262,Nadakkavil Hospital,Nadakkavil Hospital  Perinthalmanna Road Valanchery  Malappuram,Malappuram,ANTIGEN,POINT(76.0749286 10.8935928),Nadakkavil Hospital  Perinthalmanna Road Valanchery  Malappuram  Malappuram
+262,Nadakkavil Hospital,Nadakkavil Hospital  Perinthalmanna Road Valanchery  Malappuram,Malappuram,ANTIGEN,POINT(76.0749286 10.8935928),Nadakkavil Hospital  Perinthalmanna Road Valanchery  Malappuram  Malappuram
+263,Nizar Hospital Pattambi Road Valanchery Malappuram,Nizar Hospital Pattambi Road Valanchery Malappuram,Malappuram,ANTIGEN,POINT(76.073973 10.885863),Nizar Hospital Pattambi Road Valanchery Malappuram  Malappuram
+263,Nizar Hospital Pattambi Road Valanchery Malappuram,Nizar Hospital Pattambi Road Valanchery Malappuram,Malappuram,ANTIGEN,POINT(76.073973 10.885863),Nizar Hospital Pattambi Road Valanchery Malappuram  Malappuram
+264,AL Salama Diagnostic Centre,AL Salama Diagnostic Centre  Tirur,Malappuram,ANTIGEN,POINT( 75.9365472 10.9367583 ),AL Salama Diagnostic Centre  Tirur
+265,Neethi Lab,Neethi Lab  Tirur  Near Govt Hospital  Thettammal Building  Tirur,Malappuram,ANTIGEN,POINT( 75.9229444 10.9124639 ),Neethi Lab  Tirur  Near Govt Hospital  Thettammal Building  Tirur
+266,S.H.Hospital,S.H.Hospital Manimooly P.O Nilambur Via  Malappuram,Malappuram,ANTIGEN,POINT(76.225415 10.974888),S.H.Hospital Manimooly P.O Nilambur Via  Malappuram  Malappuram
+266,S.H.Hospital,S.H.Hospital Manimooly P.O Nilambur Via  Malappuram,Malappuram,ANTIGEN,POINT(76.225415 10.974888),S.H.Hospital Manimooly P.O Nilambur Via  Malappuram  Malappuram
+267,Al Madeena Institute of Medical Science Pvt Ltd. ALMAS Hospital,Al Madeena Institute of Medical Science Pvt Ltd. ALMAS Hospital  Kottakkal  Malappuram,Malappuram,ANTIGEN,POINT(75.994065 10.995934),Al Madeena Institute of Medical Science Pvt Ltd. ALMAS Hospital  Kottakkal  Malappuram  Malappuram
+267,Al Madeena Institute of Medical Science Pvt Ltd. ALMAS Hospital,Al Madeena Institute of Medical Science Pvt Ltd. ALMAS Hospital  Kottakkal  Malappuram,Malappuram,ANTIGEN,POINT(75.994065 10.995934),Al Madeena Institute of Medical Science Pvt Ltd. ALMAS Hospital  Kottakkal  Malappuram  Malappuram
+268,Alba Specialty Laboratory,Alba Specialty Laboratory Perinthalmanna Road  Valanchery,Malappuram,ANTIGEN,POINT(76.120217 11.095386),Alba Specialty Laboratory Perinthalmanna Road  Valanchery  Malappuram
+268,Alba Specialty Laboratory,Alba Specialty Laboratory Perinthalmanna Road  Valanchery,Malappuram,ANTIGEN,POINT(76.120217 11.095386),Alba Specialty Laboratory Perinthalmanna Road  Valanchery  Malappuram
+269,DOCTORS SPECIALITY LABORATORY,DOCTORS SPECIALITY LABORATORY  OP GOVT HOSPITAL  TIRUR. MALAPPURAM,Malappuram,ANTIGEN,POINT( 75.9193889 10.9094778 ),DOCTORS SPECIALITY LABORATORY  OP GOVT HOSPITAL  TIRUR. MALAPPURAM
+270,Moulana Hospital,Moulana Hospital  Perinthalmanna  Malappuram,Malappuram,ANTIGEN,POINT(76.225599 10.9764846),Moulana Hospital  Perinthalmanna  Malappuram  Malappuram
+270,Moulana Hospital,Moulana Hospital  Perinthalmanna  Malappuram,Malappuram,ANTIGEN,POINT(76.225599 10.9764846),Moulana Hospital  Perinthalmanna  Malappuram  Malappuram
+271,NIMS Hospital,NIMS Hospital  Wandoor  Malappuram,Malappuram,ANTIGEN,POINT(76.2445906972634 11.19288135),NIMS Hospital  Wandoor  Malappuram  Malappuram
+271,NIMS Hospital,NIMS Hospital  Wandoor  Malappuram,Malappuram,ANTIGEN,POINT(76.2445906972634 11.19288135),NIMS Hospital  Wandoor  Malappuram  Malappuram
+272,Sreevalsam Institute of Medical Sciences,Sreevalsam Institute of Medical Sciences  Kololambu P.O  Naduvattom Edappal Malappuram,Malappuram,ANTIGEN,POINT(76.00365 10.78482),Sreevalsam Institute of Medical Sciences  Kololambu P.O  Naduvattom Edappal Malappuram  Malappuram
+272,Sreevalsam Institute of Medical Sciences,Sreevalsam Institute of Medical Sciences  Kololambu P.O  Naduvattom Edappal Malappuram,Malappuram,ANTIGEN,POINT(76.00365 10.78482),Sreevalsam Institute of Medical Sciences  Kololambu P.O  Naduvattom Edappal Malappuram  Malappuram
+273,M K H Hospital,M K H Hospital  Thirurangadi  Malappuram,Malappuram,ANTIGEN,POINT(76.223818 10.984548),M K H Hospital  Thirurangadi  Malappuram  Malappuram
+273,M K H Hospital,M K H Hospital  Thirurangadi  Malappuram,Malappuram,ANTIGEN,POINT(76.223818 10.984548),M K H Hospital  Thirurangadi  Malappuram  Malappuram
+274,Maanu Memorial Hospital,Maanu Memorial Hospital Melakkam  Manjeri  Malappuram,Malappuram,ANTIGEN,POINT(76.116228 11.128455),Maanu Memorial Hospital Melakkam  Manjeri  Malappuram  Malappuram
+274,Maanu Memorial Hospital,Maanu Memorial Hospital Melakkam  Manjeri  Malappuram,Malappuram,ANTIGEN,POINT(76.116228 11.128455),Maanu Memorial Hospital Melakkam  Manjeri  Malappuram  Malappuram
+275,Tirurangadi Medical Laboratory( A unit of Janatha Diagnostics,Tirurangadi Medical Laboratory( A unit of Janatha Diagnostics  Chemmad  P.O Tirurangadi  Malappuram,Malappuram,ANTIGEN,POINT(75.92339 11.027665),Tirurangadi Medical Laboratory( A unit of Janatha Diagnostics  Chemmad  P.O Tirurangadi  Malappuram  Malappuram
+275,Tirurangadi Medical Laboratory( A unit of Janatha Diagnostics,Tirurangadi Medical Laboratory( A unit of Janatha Diagnostics  Chemmad  P.O Tirurangadi  Malappuram,Malappuram,ANTIGEN,POINT(75.92339 11.027665),Tirurangadi Medical Laboratory( A unit of Janatha Diagnostics  Chemmad  P.O Tirurangadi  Malappuram  Malappuram
+276,SUTHARYA HEALTHCARE AND DIAGNOSTICS,SUTHARYA HEALTHCARE AND DIAGNOSTICS  GOVINDAM ARCADE  MUTTUNGAL JUNCTION  PERINTHALMANNA  MALAPPURAM,Malappuram,ANTIGEN,POINT(75.94833 10.788764),SUTHARYA HEALTHCARE AND DIAGNOSTICS  GOVINDAM ARCADE  MUTTUNGAL JUNCTION  PERINTHALMANNA  MALAPPURAM  Malappuram
+276,SUTHARYA HEALTHCARE AND DIAGNOSTICS,SUTHARYA HEALTHCARE AND DIAGNOSTICS  GOVINDAM ARCADE  MUTTUNGAL JUNCTION  PERINTHALMANNA  MALAPPURAM,Malappuram,ANTIGEN,POINT(75.94833 10.788764),SUTHARYA HEALTHCARE AND DIAGNOSTICS  GOVINDAM ARCADE  MUTTUNGAL JUNCTION  PERINTHALMANNA  MALAPPURAM  Malappuram
+277,Ramdas Clinic and Nursing Home,Ramdas Clinic and Nursing Home  Perinthalmanna  Malappuram,Malappuram,ANTIGEN,POINT(76.201601 10.977292),Ramdas Clinic and Nursing Home  Perinthalmanna  Malappuram  Malappuram
+277,Ramdas Clinic and Nursing Home,Ramdas Clinic and Nursing Home  Perinthalmanna  Malappuram,Malappuram,ANTIGEN,POINT(76.201601 10.977292),Ramdas Clinic and Nursing Home  Perinthalmanna  Malappuram  Malappuram
+278,Mother Hospital,Mother Hospital Areekode  Malappuram,Malappuram,ANTIGEN,POINT(76.0379375151166 11.2313406),Mother Hospital Areekode  Malappuram  Malappuram
+278,Mother Hospital,Mother Hospital Areekode  Malappuram,Malappuram,ANTIGEN,POINT(76.0379375151166 11.2313406),Mother Hospital Areekode  Malappuram  Malappuram
+279,MBH Hospital LLP,MBH Hospital LLP  Down Hill Post  Malappuram,Malappuram,ANTIGEN,POINT(76.075837 11.045055),MBH Hospital LLP  Down Hill Post  Malappuram  Malappuram
+279,MBH Hospital LLP,MBH Hospital LLP  Down Hill Post  Malappuram,Malappuram,ANTIGEN,POINT(76.075837 11.045055),MBH Hospital LLP  Down Hill Post  Malappuram  Malappuram
+280,Mumtaz clinic and maternity home,Mumtaz clinic and maternity home  Pattambi road  Perintalmanna,Malappuram,ANTIGEN,POINT(76.225916 10.969003),Mumtaz clinic and maternity home  Pattambi road  Perintalmanna  Malappuram
+280,Mumtaz clinic and maternity home,Mumtaz clinic and maternity home  Pattambi road  Perintalmanna,Malappuram,ANTIGEN,POINT(76.225916 10.969003),Mumtaz clinic and maternity home  Pattambi road  Perintalmanna  Malappuram
+281,Mooniyoor Nursing Home,Mooniyoor Nursing Home  Alinchuvadu  Mooniyoor P O Malappuram,Malappuram,ANTIGEN,POINT(76.054542 11.158739),Mooniyoor Nursing Home  Alinchuvadu  Mooniyoor P O Malappuram  Malappuram
+281,Mooniyoor Nursing Home,Mooniyoor Nursing Home  Alinchuvadu  Mooniyoor P O Malappuram,Malappuram,ANTIGEN,POINT(76.054542 11.158739),Mooniyoor Nursing Home  Alinchuvadu  Mooniyoor P O Malappuram  Malappuram
+282,BM hospital Nilambur,BM hospital Nilambur  Vk road  Nilambur  Malappuram,Malappuram,ANTIGEN,POINT(76.217235 10.976181),BM hospital Nilambur  Vk road  Nilambur  Malappuram  Malappuram
+282,BM hospital Nilambur,BM hospital Nilambur  Vk road  Nilambur  Malappuram,Malappuram,ANTIGEN,POINT(76.217235 10.976181),BM hospital Nilambur  Vk road  Nilambur  Malappuram  Malappuram
+283,Malabar Hospital (P Ltd,Malabar Hospital (P Ltd  Manjeri  Malappuram,Malappuram,ANTIGEN,POINT(76.110917 11.124529),Malabar Hospital (P Ltd  Manjeri  Malappuram  Malappuram
+283,Malabar Hospital (P Ltd,Malabar Hospital (P Ltd  Manjeri  Malappuram,Malappuram,ANTIGEN,POINT(76.110917 11.124529),Malabar Hospital (P Ltd  Manjeri  Malappuram  Malappuram
+284,EMS Memorial Co-operative Hospital & Research Centre Ltd,EMS Memorial Co-operative Hospital & Research Centre Ltd  Panambi  P.O. Perinthalmanna  Mallappuram,Malappuram,ANTIGEN,POINT(76.255412 10.976171),EMS Memorial Co-operative Hospital & Research Centre Ltd  Panambi  P.O. Perinthalmanna  Mallappuram  Malappuram
+284,EMS Memorial Co-operative Hospital & Research Centre Ltd,EMS Memorial Co-operative Hospital & Research Centre Ltd  Panambi  P.O. Perinthalmanna  Mallappuram,Malappuram,ANTIGEN,POINT(76.255412 10.976171),EMS Memorial Co-operative Hospital & Research Centre Ltd  Panambi  P.O. Perinthalmanna  Mallappuram  Malappuram
+285,Daru Sifa Hospital,Daru Sifa Hospital  Kunnumpuram  Malappuram,Malappuram,ANTIGEN,POINT( 75.9513778 11.0828750 ),Daru Sifa Hospital  Kunnumpuram  Malappuram
+286,Al Abeer Hospital,Al Abeer Hospital  Kizhisseri  Kuzhimana  Malappuram,Malappuram,ANTIGEN,POINT(76.222624 10.985482),Al Abeer Hospital  Kizhisseri  Kuzhimana  Malappuram  Malappuram
+286,Al Abeer Hospital,Al Abeer Hospital  Kizhisseri  Kuzhimana  Malappuram,Malappuram,ANTIGEN,POINT(76.222624 10.985482),Al Abeer Hospital  Kizhisseri  Kuzhimana  Malappuram  Malappuram
+287,DMS HOSPITAL LLP,DMS HOSPITAL LLP  DOOR NO: 11/36-52 4 H AVENUE  NH MELECHELARI THENHIPALAM PO,Malappuram,ANTIGEN,POINT( 75.8903528 11.1137222 ),DMS HOSPITAL LLP  DOOR NO: 11/36-52 4 H AVENUE  NH MELECHELARI THENHIPALAM PO
+288,SUDHARMA SPECIALTY LABORATORY,SUDHARMA SPECIALTY LABORATORY  NMS Tower  Calicut Road  Valanchery,Malappuram,ANTIGEN,POINT(76.120217 11.095386),SUDHARMA SPECIALTY LABORATORY  NMS Tower  Calicut Road  Valanchery  Malappuram
+288,SUDHARMA SPECIALTY LABORATORY,SUDHARMA SPECIALTY LABORATORY  NMS Tower  Calicut Road  Valanchery,Malappuram,ANTIGEN,POINT(76.120217 11.095386),SUDHARMA SPECIALTY LABORATORY  NMS Tower  Calicut Road  Valanchery  Malappuram
+289,MOTHER CARE AND HEALTH CENTRE (P LTD,MOTHER CARE AND HEALTH CENTRE (P LTD Vattambalam Kumaramputhur   Mannarkad  Palakkad,Malappuram,ANTIGEN,POINT( 76.4232250 10.9834250 ),MOTHER CARE AND HEALTH CENTRE (P LTD Vattambalam Kumaramputhur   Mannarkad  Palakkad
+290,ARMC AEGIS Hospital,ARMC AEGIS Hospital  Bypass road  Perinthalmanna  Malappuram,Malappuram,ANTIGEN,POINT(75.927215 10.918933),ARMC AEGIS Hospital  Bypass road  Perinthalmanna  Malappuram  Malappuram
+290,ARMC AEGIS Hospital,ARMC AEGIS Hospital  Bypass road  Perinthalmanna  Malappuram,Malappuram,ANTIGEN,POINT(75.927215 10.918933),ARMC AEGIS Hospital  Bypass road  Perinthalmanna  Malappuram  Malappuram
+291,Valluvanad Hospital Complex Limited,Valluvanad Hospital Complex Limited Kanniyampuram(PO Ottapalam  Palakkad,Palakkad,ANTIGEN,POINT(76.654783 10.774862),Valluvanad Hospital Complex Limited Kanniyampuram(PO Ottapalam  Palakkad  Palakkad
+291,Valluvanad Hospital Complex Limited,Valluvanad Hospital Complex Limited Kanniyampuram(PO Ottapalam  Palakkad,Palakkad,ANTIGEN,POINT(76.654783 10.774862),Valluvanad Hospital Complex Limited Kanniyampuram(PO Ottapalam  Palakkad  Palakkad
+292,Paalana Institute of Medical Sciences,Paalana Institute of Medical Sciences  unit of Malabar Medical Mission Trust Kannadi. po  Palakkad ,Palakkad,ANTIGEN,POINT(76.651172 10.738399),Paalana Institute of Medical Sciences  unit of Malabar Medical Mission Trust Kannadi. po  Palakkad   Palakkad
+292,Paalana Institute of Medical Sciences,Paalana Institute of Medical Sciences  unit of Malabar Medical Mission Trust Kannadi. po  Palakkad ,Palakkad,ANTIGEN,POINT(76.651172 10.738399),Paalana Institute of Medical Sciences  unit of Malabar Medical Mission Trust Kannadi. po  Palakkad   Palakkad
+293,New Alma Hospital,New Alma Hospital  Mannarkad  Palakkad,Palakkad,ANTIGEN,POINT(76.4519341343595 10.98570085),New Alma Hospital  Mannarkad  Palakkad  Palakkad
+293,New Alma Hospital,New Alma Hospital  Mannarkad  Palakkad,Palakkad,ANTIGEN,POINT(76.4519341343595 10.98570085),New Alma Hospital  Mannarkad  Palakkad  Palakkad
+294,P.K.Das Institute of Medical Sciences,P.K.Das Institute of Medical Sciences Vaniamkulam  Palakkad,Palakkad,ANTIGEN,POINT(76.651172 10.738399),P.K.Das Institute of Medical Sciences Vaniamkulam  Palakkad  Palakkad
+294,P.K.Das Institute of Medical Sciences,P.K.Das Institute of Medical Sciences Vaniamkulam  Palakkad,Palakkad,ANTIGEN,POINT(76.651172 10.738399),P.K.Das Institute of Medical Sciences Vaniamkulam  Palakkad  Palakkad
+295,Sevana Hospital & Research Centre Pvt. LTD,Sevana Hospital & Research Centre Pvt. LTD Kalladipatta (PO Pattambi,Palakkad,ANTIGEN,POINT(76.2015349398418 10.8059211),Sevana Hospital & Research Centre Pvt. LTD Kalladipatta (PO Pattambi  Palakkad
+295,Sevana Hospital & Research Centre Pvt. LTD,Sevana Hospital & Research Centre Pvt. LTD Kalladipatta (PO Pattambi,Palakkad,ANTIGEN,POINT(76.2015349398418 10.8059211),Sevana Hospital & Research Centre Pvt. LTD Kalladipatta (PO Pattambi  Palakkad
+296,Ahalia Diabetes Hospital,Ahalia Diabetes Hospital Kozhippara  Palakkad,Palakkad,ANTIGEN,POINT(76.827528 10.792156),Ahalia Diabetes Hospital Kozhippara  Palakkad  Palakkad
+296,Ahalia Diabetes Hospital,Ahalia Diabetes Hospital Kozhippara  Palakkad,Palakkad,ANTIGEN,POINT(76.827528 10.792156),Ahalia Diabetes Hospital Kozhippara  Palakkad  Palakkad
+297,Palakkad District Co-operative hospital and Research centre Limited,Palakkad District Co-operative hospital and Research centre Limited  Palakkad,Palakkad,ANTIGEN,POINT(76.408786 10.770427),Palakkad District Co-operative hospital and Research centre Limited  Palakkad  Palakkad
+297,Palakkad District Co-operative hospital and Research centre Limited,Palakkad District Co-operative hospital and Research centre Limited  Palakkad,Palakkad,ANTIGEN,POINT(76.408786 10.770427),Palakkad District Co-operative hospital and Research centre Limited  Palakkad  Palakkad
+298,MODERN HOSPITAL,MODERN HOSPITAL  Guruvayur Road Koottanad  Palakkad,Palakkad,ANTIGEN,POINT(76.653451 10.784301),MODERN HOSPITAL  Guruvayur Road Koottanad  Palakkad  Palakkad
+298,MODERN HOSPITAL,MODERN HOSPITAL  Guruvayur Road Koottanad  Palakkad,Palakkad,ANTIGEN,POINT(76.653451 10.784301),MODERN HOSPITAL  Guruvayur Road Koottanad  Palakkad  Palakkad
+299,Thangam Hospital of PMRC,Thangam Hospital of PMRC Chandanamkurissi  West Yakkara  Palakkad,Palakkad,ANTIGEN,POINT(76.638456 10.754907),Thangam Hospital of PMRC Chandanamkurissi  West Yakkara  Palakkad  Palakkad
+299,Thangam Hospital of PMRC,Thangam Hospital of PMRC Chandanamkurissi  West Yakkara  Palakkad,Palakkad,ANTIGEN,POINT(76.638456 10.754907),Thangam Hospital of PMRC Chandanamkurissi  West Yakkara  Palakkad  Palakkad
+300,Avitis Hospital-Palakkad Town,Avitis Hospital-Palakkad Town  41/1027-1028  Brindavan Street  Near Town Hall  Palakkad,Palakkad,ANTIGEN,POINT(76.654783 10.774862),Avitis Hospital-Palakkad Town  41/1027-1028  Brindavan Street  Near Town Hall  Palakkad  Palakkad
+300,Avitis Hospital-Palakkad Town,Avitis Hospital-Palakkad Town  41/1027-1028  Brindavan Street  Near Town Hall  Palakkad,Palakkad,ANTIGEN,POINT(76.654783 10.774862),Avitis Hospital-Palakkad Town  41/1027-1028  Brindavan Street  Near Town Hall  Palakkad  Palakkad
+301,LAKSHMI HOSPITAL,LAKSHMI HOSPITAL  CHITTUR ROAD PALAKKAD,Palakkad,ANTIGEN,POINT(76.6622948872739 10.7635398),LAKSHMI HOSPITAL  CHITTUR ROAD PALAKKAD  Palakkad
+301,LAKSHMI HOSPITAL,LAKSHMI HOSPITAL  CHITTUR ROAD PALAKKAD,Palakkad,ANTIGEN,POINT(76.6622948872739 10.7635398),LAKSHMI HOSPITAL  CHITTUR ROAD PALAKKAD  Palakkad
+302,Athani Hospital Lab,Athani Hospital Lab  Nattukkal p o  Palakkad,Palakkad,ANTIGEN,POINT(76.658173 10.633818),Athani Hospital Lab  Nattukkal p o  Palakkad  Palakkad
+302,Athani Hospital Lab,Athani Hospital Lab  Nattukkal p o  Palakkad,Palakkad,ANTIGEN,POINT(76.658173 10.633818),Athani Hospital Lab  Nattukkal p o  Palakkad  Palakkad
+303,Nila Hospital,Nila Hospital  Pattambi  Palakkad,Palakkad,ANTIGEN,POINT(76.1747023442024 10.8010553),Nila Hospital  Pattambi  Palakkad  Palakkad
+303,Nila Hospital,Nila Hospital  Pattambi  Palakkad,Palakkad,ANTIGEN,POINT(76.1747023442024 10.8010553),Nila Hospital  Pattambi  Palakkad  Palakkad
+304,SUTHARYA HEALTHCARE DIAGNOSTICS and Sudharma Specialty Laboratory,SUTHARYA HEALTHCARE DIAGNOSTICS and Sudharma Specialty Laboratory  Ottapalam,Palakkad,ANTIGEN,POINT( 76.3761028 10.7768222 ),SUTHARYA HEALTHCARE DIAGNOSTICS and Sudharma Specialty Laboratory  Ottapalam
+305,Pushpagiri Medical College Laboratory,Pushpagiri Medical College Laboratory  Thiruvalla,Palakkad,ANTIGEN,POINT( 76.5803528 9.3825306 ),Pushpagiri Medical College Laboratory  Thiruvalla
+306,Crescent Hospital,Crescent Hospital  Court Road  Alathur PO.  Palakkad,Palakkad,ANTIGEN,POINT(76.654783 10.774862),Crescent Hospital  Court Road  Alathur PO.  Palakkad  Palakkad
+306,Crescent Hospital,Crescent Hospital  Court Road  Alathur PO.  Palakkad,Palakkad,ANTIGEN,POINT(76.654783 10.774862),Crescent Hospital  Court Road  Alathur PO.  Palakkad  Palakkad
+307,Believers Church Medical Colege,Believers Church Medical Colege  Thiruvalla,Pathanamthitta,ANTIGEN,POINT(76.575368 9.416575),Believers Church Medical Colege  Thiruvalla  Pathanamthitta
+307,Believers Church Medical Colege,Believers Church Medical Colege  Thiruvalla,Pathanamthitta,ANTIGEN,POINT(76.575368 9.416575),Believers Church Medical Colege  Thiruvalla  Pathanamthitta
+308,St Gregorius Medical Mission Hospital,St Gregorius Medical Mission Hospital  Thiruvalla,Pathanamthitta,ANTIGEN,POINT(76.578686 9.39391),St Gregorius Medical Mission Hospital  Thiruvalla  Pathanamthitta
+308,St Gregorius Medical Mission Hospital,St Gregorius Medical Mission Hospital  Thiruvalla,Pathanamthitta,ANTIGEN,POINT(76.578686 9.39391),St Gregorius Medical Mission Hospital  Thiruvalla  Pathanamthitta
+309,Christian Mission Hospital,Christian Mission Hospital  Pandalam  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.6794 9.218379),Christian Mission Hospital  Pandalam  Pathanamthitta  Pathanamthitta
+309,Christian Mission Hospital,Christian Mission Hospital  Pandalam  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.6794 9.218379),Christian Mission Hospital  Pandalam  Pathanamthitta  Pathanamthitta
+310,Muthoot Health Care Pvt Ltd,Muthoot Health Care Pvt Ltd Kozhencherry,Pathanamthitta,ANTIGEN,POINT(76.790786 9.266552),Muthoot Health Care Pvt Ltd Kozhencherry  Pathanamthitta
+310,Muthoot Health Care Pvt Ltd,Muthoot Health Care Pvt Ltd Kozhencherry,Pathanamthitta,ANTIGEN,POINT(76.790786 9.266552),Muthoot Health Care Pvt Ltd Kozhencherry  Pathanamthitta
+311,Holy cross Hospital,Holy cross Hospital  Adoor  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.7244707 9.1616259),Holy cross Hospital  Adoor  Pathanamthitta  Pathanamthitta
+311,Holy cross Hospital,Holy cross Hospital  Adoor  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.7244707 9.1616259),Holy cross Hospital  Adoor  Pathanamthitta  Pathanamthitta
+312,Lifeline Super Speciality Hospital,Lifeline Super Speciality Hospital  Adoor Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.7063316 9.163441),Lifeline Super Speciality Hospital  Adoor Pathanamthitta  Pathanamthitta
+312,Lifeline Super Speciality Hospital,Lifeline Super Speciality Hospital  Adoor Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.7063316 9.163441),Lifeline Super Speciality Hospital  Adoor Pathanamthitta  Pathanamthitta
+313,DDRC Srl Pathanamthitta,DDRC Srl Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.730803 9.15476),DDRC Srl Pathanamthitta  Pathanamthitta
+313,DDRC Srl Pathanamthitta,DDRC Srl Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.730803 9.15476),DDRC Srl Pathanamthitta  Pathanamthitta
+314,St. Thomas Hospital,St. Thomas Hospital  Malakkara P.O Edayaranmula  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.674599 9.327702),St. Thomas Hospital  Malakkara P.O Edayaranmula  Pathanamthitta  Pathanamthitta
+314,St. Thomas Hospital,St. Thomas Hospital  Malakkara P.O Edayaranmula  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.674599 9.327702),St. Thomas Hospital  Malakkara P.O Edayaranmula  Pathanamthitta  Pathanamthitta
+315,Medical Trust Hospital and Diabetes care centre,Medical Trust Hospital and Diabetes care centre  Kulanada,Pathanamthitta,ANTIGEN,POINT(76.645176 9.328102),Medical Trust Hospital and Diabetes care centre  Kulanada  Pathanamthitta
+315,Medical Trust Hospital and Diabetes care centre,Medical Trust Hospital and Diabetes care centre  Kulanada,Pathanamthitta,ANTIGEN,POINT(76.645176 9.328102),Medical Trust Hospital and Diabetes care centre  Kulanada  Pathanamthitta
+316,MGM Muthoot Medical Centre,MGM Muthoot Medical Centre Ring Road  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.780336 9.272686),MGM Muthoot Medical Centre Ring Road  Pathanamthitta  Pathanamthitta
+316,MGM Muthoot Medical Centre,MGM Muthoot Medical Centre Ring Road  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.780336 9.272686),MGM Muthoot Medical Centre Ring Road  Pathanamthitta  Pathanamthitta
+317,Poyanil Hospital,Poyanil Hospital  Kozhencherry  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.7079349 9.3368136),Poyanil Hospital  Kozhencherry  Pathanamthitta  Pathanamthitta
+317,Poyanil Hospital,Poyanil Hospital  Kozhencherry  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.7079349 9.3368136),Poyanil Hospital  Kozhencherry  Pathanamthitta  Pathanamthitta
+318,NSS Medical Mission Hospital,NSS Medical Mission Hospital  Pandalam  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.678327 9.2251851),NSS Medical Mission Hospital  Pandalam  Pathanamthitta  Pathanamthitta
+318,NSS Medical Mission Hospital,NSS Medical Mission Hospital  Pandalam  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.678327 9.2251851),NSS Medical Mission Hospital  Pandalam  Pathanamthitta  Pathanamthitta
+319,Mount Zion medical college and,Mount Zion medical college and,Pathanamthitta,ANTIGEN,POINT(76.760051 9.32765),Mount Zion medical college and  Pathanamthitta
+319,Mount Zion medical college and,Mount Zion medical college and,Pathanamthitta,ANTIGEN,POINT(76.760051 9.32765),Mount Zion medical college and  Pathanamthitta
+320,Tiruvalla Medical Mission,Tiruvalla Medical Mission  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.79849 9.424171),Tiruvalla Medical Mission  Pathanamthitta  Pathanamthitta
+320,Tiruvalla Medical Mission,Tiruvalla Medical Mission  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.79849 9.424171),Tiruvalla Medical Mission  Pathanamthitta  Pathanamthitta
+321,St Vincent Hospital,St Vincent Hospital  Thuvayoor  Kadampanad  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.696055 9.104044),St Vincent Hospital  Thuvayoor  Kadampanad  Pathanamthitta  Pathanamthitta
+321,St Vincent Hospital,St Vincent Hospital  Thuvayoor  Kadampanad  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.696055 9.104044),St Vincent Hospital  Thuvayoor  Kadampanad  Pathanamthitta  Pathanamthitta
+322,GG Hospital,GG Hospital  Murinjapalam  Medical College PO,Pathanamthitta,ANTIGEN,POINT( 76.9332917 8.5157889 ),GG Hospital  Murinjapalam  Medical College PO
+323,PRS Hospital,PRS Hospital  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.9592286 8.4811163),PRS Hospital  Trivandrum  Thiruvananthapuram
+323,PRS Hospital,PRS Hospital  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.9592286 8.4811163),PRS Hospital  Trivandrum  Thiruvananthapuram
+324,Saraswathy Hospital,Saraswathy Hospital  Parassala  TVM,Thiruvananthapuram,ANTIGEN,POINT(77.148511 8.348671),Saraswathy Hospital  Parassala  TVM  Thiruvananthapuram
+324,Saraswathy Hospital,Saraswathy Hospital  Parassala  TVM,Thiruvananthapuram,ANTIGEN,POINT(77.148511 8.348671),Saraswathy Hospital  Parassala  TVM  Thiruvananthapuram
+325,Attukal Devi Institute of Medical Sciences Ltd,Attukal Devi Institute of Medical Sciences Ltd  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.819351 8.691581),Attukal Devi Institute of Medical Sciences Ltd  Trivandrum  Thiruvananthapuram
+325,Attukal Devi Institute of Medical Sciences Ltd,Attukal Devi Institute of Medical Sciences Ltd  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.819351 8.691581),Attukal Devi Institute of Medical Sciences Ltd  Trivandrum  Thiruvananthapuram
+326,SUT Hospital,SUT Hospital  Pattom,Thiruvananthapuram,ANTIGEN,POINT(76.9411347008867 8.5171396),SUT Hospital  Pattom  Thiruvananthapuram
+326,SUT Hospital,SUT Hospital  Pattom,Thiruvananthapuram,ANTIGEN,POINT(76.9411347008867 8.5171396),SUT Hospital  Pattom  Thiruvananthapuram
+327,DDRC,DDRC  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(77.036164 8.4900967),DDRC  Trivandrum  Thiruvananthapuram
+327,DDRC,DDRC  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(77.036164 8.4900967),DDRC  Trivandrum  Thiruvananthapuram
+328,KIMS Trivandrum,KIMS Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.909322113257 8.51365695),KIMS Trivandrum  Thiruvananthapuram
+328,KIMS Trivandrum,KIMS Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.909322113257 8.51365695),KIMS Trivandrum  Thiruvananthapuram
+329,S P Mutispeciality Hospitals PVT LTD,S P Mutispeciality Hospitals PVT LTD  Parassala ,Thiruvananthapuram,ANTIGEN,POINT( 77.1519889 8.3438972 ),S P Mutispeciality Hospitals PVT LTD  Parassala 
+330,Amar Maternity & Fertility Centre Attingal,Amar Maternity & Fertility Centre Attingal  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,POINT(76.8145453 8.7000589),Amar Maternity & Fertility Centre Attingal  Thiruvananthapuram  Thiruvananthapuram
+330,Amar Maternity & Fertility Centre Attingal,Amar Maternity & Fertility Centre Attingal  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,POINT(76.8145453 8.7000589),Amar Maternity & Fertility Centre Attingal  Thiruvananthapuram  Thiruvananthapuram
+331,Sree Gokulam Medical College,Sree Gokulam Medical College  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.914074 8.691694),Sree Gokulam Medical College  Trivandrum  Thiruvananthapuram
+331,Sree Gokulam Medical College,Sree Gokulam Medical College  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.914074 8.691694),Sree Gokulam Medical College  Trivandrum  Thiruvananthapuram
+332,Dr. SMCSI Medical College and Hospital,Dr. SMCSI Medical College and Hospital  Karakonam ,Thiruvananthapuram,ANTIGEN,POINT(77.173345 8.389273),Dr. SMCSI Medical College and Hospital  Karakonam   Thiruvananthapuram
+332,Dr. SMCSI Medical College and Hospital,Dr. SMCSI Medical College and Hospital  Karakonam ,Thiruvananthapuram,ANTIGEN,POINT(77.173345 8.389273),Dr. SMCSI Medical College and Hospital  Karakonam   Thiruvananthapuram
+333,Jubilee Hospital,Jubilee Hospital  Palayam Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.9523084 8.5019965),Jubilee Hospital  Palayam Trivandrum  Thiruvananthapuram
+333,Jubilee Hospital,Jubilee Hospital  Palayam Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.9523084 8.5019965),Jubilee Hospital  Palayam Trivandrum  Thiruvananthapuram
+334,AL- ARIF HOSPITAL,AL- ARIF HOSPITAL  Ambalathara  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,POINT(76.899729 8.715768),AL- ARIF HOSPITAL  Ambalathara  Thiruvananthapuram  Thiruvananthapuram
+334,AL- ARIF HOSPITAL,AL- ARIF HOSPITAL  Ambalathara  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,POINT(76.899729 8.715768),AL- ARIF HOSPITAL  Ambalathara  Thiruvananthapuram  Thiruvananthapuram
+335,Santhwana Hospital PVT LTD,Santhwana Hospital PVT LTD Peroorkada.P.O  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,POINT(76.959502 8.532185),Santhwana Hospital PVT LTD Peroorkada.P.O  Thiruvananthapuram  Thiruvananthapuram
+335,Santhwana Hospital PVT LTD,Santhwana Hospital PVT LTD Peroorkada.P.O  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,POINT(76.959502 8.532185),Santhwana Hospital PVT LTD Peroorkada.P.O  Thiruvananthapuram  Thiruvananthapuram
+336,NIMS Medicity,NIMS Medicity  Neyyattinkara  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,POINT( 77.0659194 8.4122194 ),NIMS Medicity  Neyyattinkara  Thiruvananthapuram
+337,Cosmopolitan Hospitals Pvt Ltd,Cosmopolitan Hospitals Pvt Ltd  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT( 76.9355778 8.5156194 ),Cosmopolitan Hospitals Pvt Ltd  Trivandrum
+338,Pran Fertility And Well Woman Centre( P Ltd,Pran Fertility And Well Woman Centre( P Ltd  Kumarapuram  Medical college P.O  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.94749 8.505766),Pran Fertility And Well Woman Centre( P Ltd  Kumarapuram  Medical college P.O  Trivandrum  Thiruvananthapuram
+338,Pran Fertility And Well Woman Centre( P Ltd,Pran Fertility And Well Woman Centre( P Ltd  Kumarapuram  Medical college P.O  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.94749 8.505766),Pran Fertility And Well Woman Centre( P Ltd  Kumarapuram  Medical college P.O  Trivandrum  Thiruvananthapuram
+339,KTCT Hospital,KTCT Hospital Chathampara Thottakadu PO Kallambalam  Tvm,Thiruvananthapuram,ANTIGEN,POINT(76.94749 8.505766),KTCT Hospital Chathampara Thottakadu PO Kallambalam  Tvm  Thiruvananthapuram
+339,KTCT Hospital,KTCT Hospital Chathampara Thottakadu PO Kallambalam  Tvm,Thiruvananthapuram,ANTIGEN,POINT(76.94749 8.505766),KTCT Hospital Chathampara Thottakadu PO Kallambalam  Tvm  Thiruvananthapuram
+340,Devi scans pvt Ltd,Devi scans pvt Ltd  Kumarapuram Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(77.045034 8.589699),Devi scans pvt Ltd  Kumarapuram Trivandrum  Thiruvananthapuram
+340,Devi scans pvt Ltd,Devi scans pvt Ltd  Kumarapuram Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(77.045034 8.589699),Devi scans pvt Ltd  Kumarapuram Trivandrum  Thiruvananthapuram
+341,Meditrina Hospital,Meditrina Hospital  Pattom  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.9442242 8.5155146),Meditrina Hospital  Pattom  Trivandrum  Thiruvananthapuram
+341,Meditrina Hospital,Meditrina Hospital  Pattom  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.9442242 8.5155146),Meditrina Hospital  Pattom  Trivandrum  Thiruvananthapuram
+342,SP Fort Hospital,SP Fort Hospital  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.9415782 8.4846824),SP Fort Hospital  Trivandrum  Thiruvananthapuram
+342,SP Fort Hospital,SP Fort Hospital  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.9415782 8.4846824),SP Fort Hospital  Trivandrum  Thiruvananthapuram
+343,Metro Scans and Laboratory,Metro Scans and Laboratory  Medical College PO  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT( 76.9284639 8.5253250 ),Metro Scans and Laboratory  Medical College PO  Trivandrum
+344,Ananthapuri Hospitals & Research Institute,Ananthapuri Hospitals & Research Institute  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.9607718 8.5504074),Ananthapuri Hospitals & Research Institute  Trivandrum  Thiruvananthapuram
+344,Ananthapuri Hospitals & Research Institute,Ananthapuri Hospitals & Research Institute  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.9607718 8.5504074),Ananthapuri Hospitals & Research Institute  Trivandrum  Thiruvananthapuram
+345,Hind labs Diagnostic Centre and Polyclinic,Hind labs Diagnostic Centre and Polyclinic  TRIDA Complex  Medical College PO  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT( 76.9296722 8.5227417 ),Hind labs Diagnostic Centre and Polyclinic  TRIDA Complex  Medical College PO  Trivandrum
+346,Kalyan Hospital,Kalyan Hospital  Aryasala  Manacaud P O  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,POINT(77.030276 8.432156),Kalyan Hospital  Aryasala  Manacaud P O  Thiruvananthapuram  Thiruvananthapuram
+346,Kalyan Hospital,Kalyan Hospital  Aryasala  Manacaud P O  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,POINT(77.030276 8.432156),Kalyan Hospital  Aryasala  Manacaud P O  Thiruvananthapuram  Thiruvananthapuram
+347,KJK HOSPITAL AND RESEARCH CENTRE,KJK HOSPITAL AND RESEARCH CENTRE  SHAWALLACE LANE  NALANCHIRA   TRIVANDRUM,Thiruvananthapuram,ANTIGEN,POINT(77.045034 8.589699),KJK HOSPITAL AND RESEARCH CENTRE  SHAWALLACE LANE  NALANCHIRA   TRIVANDRUM  Thiruvananthapuram
+347,KJK HOSPITAL AND RESEARCH CENTRE,KJK HOSPITAL AND RESEARCH CENTRE  SHAWALLACE LANE  NALANCHIRA   TRIVANDRUM,Thiruvananthapuram,ANTIGEN,POINT(77.045034 8.589699),KJK HOSPITAL AND RESEARCH CENTRE  SHAWALLACE LANE  NALANCHIRA   TRIVANDRUM  Thiruvananthapuram
+348,Nirmala Hospital,Nirmala Hospital  Karikakom PO  ,Thiruvananthapuram,ANTIGEN,POINT(76.897664 8.497517),Nirmala Hospital  Karikakom PO    Thiruvananthapuram
+348,Nirmala Hospital,Nirmala Hospital  Karikakom PO  ,Thiruvananthapuram,ANTIGEN,POINT(76.897664 8.497517),Nirmala Hospital  Karikakom PO    Thiruvananthapuram
+349,Sree Ramakrishna Ashrama Charitable Hospital,Sree Ramakrishna Ashrama Charitable Hospital  Sasthamangalam,Thiruvananthapuram,ANTIGEN,POINT(76.974445 8.512947),Sree Ramakrishna Ashrama Charitable Hospital  Sasthamangalam  Thiruvananthapuram
+349,Sree Ramakrishna Ashrama Charitable Hospital,Sree Ramakrishna Ashrama Charitable Hospital  Sasthamangalam,Thiruvananthapuram,ANTIGEN,POINT(76.974445 8.512947),Sree Ramakrishna Ashrama Charitable Hospital  Sasthamangalam  Thiruvananthapuram
+350,Sivagiri Sree Narayana Medical Mission Hospital,Sivagiri Sree Narayana Medical Mission Hospital  Varkala Puthenchantha,Thiruvananthapuram,ANTIGEN,POINT(76.733477 8.729605),Sivagiri Sree Narayana Medical Mission Hospital  Varkala Puthenchantha  Thiruvananthapuram
+350,Sivagiri Sree Narayana Medical Mission Hospital,Sivagiri Sree Narayana Medical Mission Hospital  Varkala Puthenchantha,Thiruvananthapuram,ANTIGEN,POINT(76.733477 8.729605),Sivagiri Sree Narayana Medical Mission Hospital  Varkala Puthenchantha  Thiruvananthapuram
+351,SUT Royale Hospital,SUT Royale Hospital  Ulloor  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.929356 8.538355),SUT Royale Hospital  Ulloor  Trivandrum  Thiruvananthapuram
+351,SUT Royale Hospital,SUT Royale Hospital  Ulloor  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.929356 8.538355),SUT Royale Hospital  Ulloor  Trivandrum  Thiruvananthapuram
+352,Neyyar Medicity,Neyyar Medicity  Kattakada,Thiruvananthapuram,ANTIGEN,POINT(77.0698428 8.5015783),Neyyar Medicity  Kattakada  Thiruvananthapuram
+352,Neyyar Medicity,Neyyar Medicity  Kattakada,Thiruvananthapuram,ANTIGEN,POINT(77.0698428 8.5015783),Neyyar Medicity  Kattakada  Thiruvananthapuram
+353,RK Hospital,RK Hospital  Manacaud  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.947459 8.474222),RK Hospital  Manacaud  Trivandrum  Thiruvananthapuram
+353,RK Hospital,RK Hospital  Manacaud  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.947459 8.474222),RK Hospital  Manacaud  Trivandrum  Thiruvananthapuram
+354,SK Hospital,SK Hospital  Edappazhinji  Pangode  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,POINT(76.971088 8.505529),SK Hospital  Edappazhinji  Pangode  Thiruvananthapuram  Thiruvananthapuram
+354,SK Hospital,SK Hospital  Edappazhinji  Pangode  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,POINT(76.971088 8.505529),SK Hospital  Edappazhinji  Pangode  Thiruvananthapuram  Thiruvananthapuram
+355,Leela Ravi Hospital,Leela Ravi Hospital  Venjaramoodu Po  Tvm,Thiruvananthapuram,ANTIGEN,POINT(76.910568 8.675931),Leela Ravi Hospital  Venjaramoodu Po  Tvm  Thiruvananthapuram
+355,Leela Ravi Hospital,Leela Ravi Hospital  Venjaramoodu Po  Tvm,Thiruvananthapuram,ANTIGEN,POINT(76.910568 8.675931),Leela Ravi Hospital  Venjaramoodu Po  Tvm  Thiruvananthapuram
+356,Doctors Advanced Diagnostics,Doctors Advanced Diagnostics  Kumarapuram Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(77.045034 8.589699),Doctors Advanced Diagnostics  Kumarapuram Trivandrum  Thiruvananthapuram
+356,Doctors Advanced Diagnostics,Doctors Advanced Diagnostics  Kumarapuram Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(77.045034 8.589699),Doctors Advanced Diagnostics  Kumarapuram Trivandrum  Thiruvananthapuram
+357,Sushrutha Medical Centre,Sushrutha Medical Centre  Pothencode  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.966562 8.542186),Sushrutha Medical Centre  Pothencode  Trivandrum  Thiruvananthapuram
+357,Sushrutha Medical Centre,Sushrutha Medical Centre  Pothencode  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.966562 8.542186),Sushrutha Medical Centre  Pothencode  Trivandrum  Thiruvananthapuram
+358,MDC SCANS AND LABORATORY,MDC SCANS AND LABORATORY  PAMPPORETH TOWER  PAZHAYA ROAD MEDICAL COLLEGE P O  THIRUVANANTHAPURAM,Thiruvananthapuram,ANTIGEN,POINT(76.929562 8.509097),MDC SCANS AND LABORATORY  PAMPPORETH TOWER  PAZHAYA ROAD MEDICAL COLLEGE P O  THIRUVANANTHAPURAM  Thiruvananthapuram
+358,MDC SCANS AND LABORATORY,MDC SCANS AND LABORATORY  PAMPPORETH TOWER  PAZHAYA ROAD MEDICAL COLLEGE P O  THIRUVANANTHAPURAM,Thiruvananthapuram,ANTIGEN,POINT(76.929562 8.509097),MDC SCANS AND LABORATORY  PAMPPORETH TOWER  PAZHAYA ROAD MEDICAL COLLEGE P O  THIRUVANANTHAPURAM  Thiruvananthapuram
+359,Daya General Hospital Limited,Daya General Hospital Limited Shornur Road  Near Viyyur Bridge  Thrissur-22,Thiruvananthapuram,ANTIGEN,POINT( 76.2146222 10.5461028 ),Daya General Hospital Limited Shornur Road  Near Viyyur Bridge  Thrissur-22
+360,Procare Hospital,Procare Hospital Karette  Vamanapuram P O  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.942625 8.51857),Procare Hospital Karette  Vamanapuram P O  Trivandrum  Thiruvananthapuram
+360,Procare Hospital,Procare Hospital Karette  Vamanapuram P O  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(76.942625 8.51857),Procare Hospital Karette  Vamanapuram P O  Trivandrum  Thiruvananthapuram
+361,National Scans and Diagnostic Services,National Scans and Diagnostic Services  Raffa Building  Pothencode P O  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,POINT(76.942625 8.51857),National Scans and Diagnostic Services  Raffa Building  Pothencode P O  Thiruvananthapuram  Thiruvananthapuram
+361,National Scans and Diagnostic Services,National Scans and Diagnostic Services  Raffa Building  Pothencode P O  Thiruvananthapuram,Thiruvananthapuram,ANTIGEN,POINT(76.942625 8.51857),National Scans and Diagnostic Services  Raffa Building  Pothencode P O  Thiruvananthapuram  Thiruvananthapuram
+362,Amala Institute Of Medical Science,Amala Institute Of Medical Science  Thrissur,Thrissur,ANTIGEN,POINT( 76.1675194 10.5617833 ),Amala Institute Of Medical Science  Thrissur
+363,TM Hospital (A Unit Of Hrudaya Healthcare pvt Ltd,TM Hospital (A Unit Of Hrudaya Healthcare pvt Ltd  Chettuva  Kundaliyoor (po  Thrissur,Thrissur,ANTIGEN,POINT( 76.0503500 10.5251194 ),TM Hospital (A Unit Of Hrudaya Healthcare pvt Ltd  Chettuva  Kundaliyoor (po  Thrissur
+364,Jubilee Mission Medical College & RI,Jubilee Mission Medical College & RI  Thrissur,Thrissur,ANTIGEN,POINT(76.227551 10.520328),Jubilee Mission Medical College & RI  Thrissur  Thrissur
+364,Jubilee Mission Medical College & RI,Jubilee Mission Medical College & RI  Thrissur,Thrissur,ANTIGEN,POINT(76.227551 10.520328),Jubilee Mission Medical College & RI  Thrissur  Thrissur
+365,St James Hospital,St James Hospital  Thrissur,Thrissur,ANTIGEN,POINT(76.3355904751317 10.31512115),St James Hospital  Thrissur  Thrissur
+365,St James Hospital,St James Hospital  Thrissur,Thrissur,ANTIGEN,POINT(76.3355904751317 10.31512115),St James Hospital  Thrissur  Thrissur
+366,Avitis Super Specialty Hospitals Pvt Ltd,Avitis Super Specialty Hospitals Pvt Ltd  Thrissur - Pollachi Main Road  Nemmara,Palakkad,ANTIGEN,POINT(76.5964 10.59356),Avitis Super Specialty Hospitals Pvt Ltd  Thrissur - Pollachi Main Road  Nemmara  Palakkad
+366,Avitis Super Specialty Hospitals Pvt Ltd,Avitis Super Specialty Hospitals Pvt Ltd  Thrissur - Pollachi Main Road  Nemmara,Palakkad,ANTIGEN,POINT(76.5964 10.59356),Avitis Super Specialty Hospitals Pvt Ltd  Thrissur - Pollachi Main Road  Nemmara  Palakkad
+367,Gem Hospital Paravattani Thrissur,Gem Hospital Paravattani Thrissur,Thrissur,ANTIGEN,POINT(76.219185 10.528434),Gem Hospital Paravattani Thrissur  Thrissur
+367,Gem Hospital Paravattani Thrissur,Gem Hospital Paravattani Thrissur,Thrissur,ANTIGEN,POINT(76.219185 10.528434),Gem Hospital Paravattani Thrissur  Thrissur
+368,Medicare Hospital,Medicare Hospital  CO Medall healthcare Pvt LTD  Kodungallur,Thrissur,ANTIGEN,POINT( 76.5323222 9.6026056 ),Medicare Hospital  CO Medall healthcare Pvt LTD  Kodungallur
+369,Santhi Ortho Hospital,Santhi Ortho Hospital  Kodakara  Thrissur,Thrissur,ANTIGEN,POINT(76.182054 10.261234),Santhi Ortho Hospital  Kodakara  Thrissur  Thrissur
+369,Santhi Ortho Hospital,Santhi Ortho Hospital  Kodakara  Thrissur,Thrissur,ANTIGEN,POINT(76.182054 10.261234),Santhi Ortho Hospital  Kodakara  Thrissur  Thrissur
+370,MOTHER HOSPITAL PVT LIMITED,MOTHER HOSPITAL PVT LIMITED  PULLAZHI POST  OLARI THRISSUR,Thrissur,ANTIGEN,POINT(76.185355 10.519232),MOTHER HOSPITAL PVT LIMITED  PULLAZHI POST  OLARI THRISSUR  Thrissur
+370,MOTHER HOSPITAL PVT LIMITED,MOTHER HOSPITAL PVT LIMITED  PULLAZHI POST  OLARI THRISSUR,Thrissur,ANTIGEN,POINT(76.185355 10.519232),MOTHER HOSPITAL PVT LIMITED  PULLAZHI POST  OLARI THRISSUR  Thrissur
+371,Sacred Heart Mission Hospital,Sacred Heart Mission Hospital  Pullur P O  Irinjalakuda  Thrissur,Thrissur,ANTIGEN,POINT(76.247542 10.522386),Sacred Heart Mission Hospital  Pullur P O  Irinjalakuda  Thrissur  Thrissur
+371,Sacred Heart Mission Hospital,Sacred Heart Mission Hospital  Pullur P O  Irinjalakuda  Thrissur,Thrissur,ANTIGEN,POINT(76.247542 10.522386),Sacred Heart Mission Hospital  Pullur P O  Irinjalakuda  Thrissur  Thrissur
+372,Vivid diagnostic Centre,Vivid diagnostic Centre  Ground Floor  AVIS Building  Kodungalloor,Thrissur,ANTIGEN,POINT(76.211472 10.517013),Vivid diagnostic Centre  Ground Floor  AVIS Building  Kodungalloor  Thrissur
+372,Vivid diagnostic Centre,Vivid diagnostic Centre  Ground Floor  AVIS Building  Kodungalloor,Thrissur,ANTIGEN,POINT(76.211472 10.517013),Vivid diagnostic Centre  Ground Floor  AVIS Building  Kodungalloor  Thrissur
+373,SUN MEDICAL AND RESEARCH CENTRE,SUN MEDICAL AND RESEARCH CENTRE S.T. NAGAR  KANNAMKULANGARA  THRISSUR,Thrissur,ANTIGEN,POINT(76.269133 10.449388),SUN MEDICAL AND RESEARCH CENTRE S.T. NAGAR  KANNAMKULANGARA  THRISSUR  Thrissur
+373,SUN MEDICAL AND RESEARCH CENTRE,SUN MEDICAL AND RESEARCH CENTRE S.T. NAGAR  KANNAMKULANGARA  THRISSUR,Thrissur,ANTIGEN,POINT(76.269133 10.449388),SUN MEDICAL AND RESEARCH CENTRE S.T. NAGAR  KANNAMKULANGARA  THRISSUR  Thrissur
+374,Jeeva Specialty Laboratory,Jeeva Specialty Laboratory  Thrissur,Thrissur,ANTIGEN,POINT(76.193996 10.615304),Jeeva Specialty Laboratory  Thrissur  Thrissur
+374,Jeeva Specialty Laboratory,Jeeva Specialty Laboratory  Thrissur,Thrissur,ANTIGEN,POINT(76.193996 10.615304),Jeeva Specialty Laboratory  Thrissur  Thrissur
+375,Aswini Hospital,Aswini Hospital  Karunakaran Nambiar Road  Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),Aswini Hospital  Karunakaran Nambiar Road  Thrissur  Thrissur
+375,Aswini Hospital,Aswini Hospital  Karunakaran Nambiar Road  Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),Aswini Hospital  Karunakaran Nambiar Road  Thrissur  Thrissur
+376,Hayath Hospital,Hayath Hospital  Main Road  Chavakkad  Thrissur,Thrissur,ANTIGEN,POINT(76.230914 10.543462),Hayath Hospital  Main Road  Chavakkad  Thrissur  Thrissur
+376,Hayath Hospital,Hayath Hospital  Main Road  Chavakkad  Thrissur,Thrissur,ANTIGEN,POINT(76.230914 10.543462),Hayath Hospital  Main Road  Chavakkad  Thrissur  Thrissur
+377,Metro Healthcare,Metro Healthcare  Town Hall  Irinjalakkuda  Thrissur,Thrissur,ANTIGEN,POINT(76.20815 10.343735),Metro Healthcare  Town Hall  Irinjalakkuda  Thrissur  Thrissur
+377,Metro Healthcare,Metro Healthcare  Town Hall  Irinjalakkuda  Thrissur,Thrissur,ANTIGEN,POINT(76.20815 10.343735),Metro Healthcare  Town Hall  Irinjalakkuda  Thrissur  Thrissur
+378,Gurudharmam Mission Hospital Ltd,Gurudharmam Mission Hospital Ltd KK Road Mala  Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),Gurudharmam Mission Hospital Ltd KK Road Mala  Thrissur  Thrissur
+378,Gurudharmam Mission Hospital Ltd,Gurudharmam Mission Hospital Ltd KK Road Mala  Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),Gurudharmam Mission Hospital Ltd KK Road Mala  Thrissur  Thrissur
+379,Elite Mission Hospital,Elite Mission Hospital  Koorkenchery  Thrissur,Thrissur,ANTIGEN,POINT(76.211292 10.502358),Elite Mission Hospital  Koorkenchery  Thrissur  Thrissur
+379,Elite Mission Hospital,Elite Mission Hospital  Koorkenchery  Thrissur,Thrissur,ANTIGEN,POINT(76.211292 10.502358),Elite Mission Hospital  Koorkenchery  Thrissur  Thrissur
+380,Bishop Alapatt Mission Hospital,Bishop Alapatt Mission Hospital  Karanchira  Kattoor P O Thrissur,Thrissur,ANTIGEN,POINT(76.247542 10.522386),Bishop Alapatt Mission Hospital  Karanchira  Kattoor P O Thrissur  Thrissur
+380,Bishop Alapatt Mission Hospital,Bishop Alapatt Mission Hospital  Karanchira  Kattoor P O Thrissur,Thrissur,ANTIGEN,POINT(76.247542 10.522386),Bishop Alapatt Mission Hospital  Karanchira  Kattoor P O Thrissur  Thrissur
+381,HYGEA MED LABORATORIES,HYGEA MED LABORATORIES Near Vivekodhayam School  Thiruvambady Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),HYGEA MED LABORATORIES Near Vivekodhayam School  Thiruvambady Thrissur  Thrissur
+381,HYGEA MED LABORATORIES,HYGEA MED LABORATORIES Near Vivekodhayam School  Thiruvambady Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),HYGEA MED LABORATORIES Near Vivekodhayam School  Thiruvambady Thrissur  Thrissur
+382,St Antonys Mission Hospital,St Antonys Mission Hospital  Pazhuvil  Thrissur,Thrissur,ANTIGEN,POINT(76.1543306 10.4169818),St Antonys Mission Hospital  Pazhuvil  Thrissur  Thrissur
+382,St Antonys Mission Hospital,St Antonys Mission Hospital  Pazhuvil  Thrissur,Thrissur,ANTIGEN,POINT(76.1543306 10.4169818),St Antonys Mission Hospital  Pazhuvil  Thrissur  Thrissur
+383,Unity Hospital,Unity Hospital  Kanippayyur  Kunnamkulam  Thrissur,Thrissur,ANTIGEN,POINT(76.081896 10.636032),Unity Hospital  Kanippayyur  Kunnamkulam  Thrissur  Thrissur
+383,Unity Hospital,Unity Hospital  Kanippayyur  Kunnamkulam  Thrissur,Thrissur,ANTIGEN,POINT(76.081896 10.636032),Unity Hospital  Kanippayyur  Kunnamkulam  Thrissur  Thrissur
+384,NEST De-Addiction Hospital,NEST De-Addiction Hospital  Kuttumukku  Thrissur,Thrissur,ANTIGEN,POINT(76.234997 10.554201),NEST De-Addiction Hospital  Kuttumukku  Thrissur  Thrissur
+384,NEST De-Addiction Hospital,NEST De-Addiction Hospital  Kuttumukku  Thrissur,Thrissur,ANTIGEN,POINT(76.234997 10.554201),NEST De-Addiction Hospital  Kuttumukku  Thrissur  Thrissur
+385,Westfort Hospital,Westfort Hospital  West Fort  Thrissur,Thrissur,ANTIGEN,POINT(76.196403 10.537636),Westfort Hospital  West Fort  Thrissur  Thrissur
+385,Westfort Hospital,Westfort Hospital  West Fort  Thrissur,Thrissur,ANTIGEN,POINT(76.196403 10.537636),Westfort Hospital  West Fort  Thrissur  Thrissur
+386,DHANYA MISSION HOSPITAL,DHANYA MISSION HOSPITAL  CHALAKUDY  THRISSUR,Thrissur,ANTIGEN,POINT(76.324575 10.331024),DHANYA MISSION HOSPITAL  CHALAKUDY  THRISSUR  Thrissur
+386,DHANYA MISSION HOSPITAL,DHANYA MISSION HOSPITAL  CHALAKUDY  THRISSUR,Thrissur,ANTIGEN,POINT(76.324575 10.331024),DHANYA MISSION HOSPITAL  CHALAKUDY  THRISSUR  Thrissur
+387,Central laboratories,Central laboratories  Bund Road Kanjany  Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),Central laboratories  Bund Road Kanjany  Thrissur  Thrissur
+387,Central laboratories,Central laboratories  Bund Road Kanjany  Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),Central laboratories  Bund Road Kanjany  Thrissur  Thrissur
+388,IRINJALAKUDA COOPERATIVE HOSPITAL LTD,IRINJALAKUDA COOPERATIVE HOSPITAL LTD  Kolothumpadi  Nadavaramba P O  Thrissur,Thrissur,ANTIGEN,POINT(76.247542 10.522386),IRINJALAKUDA COOPERATIVE HOSPITAL LTD  Kolothumpadi  Nadavaramba P O  Thrissur  Thrissur
+388,IRINJALAKUDA COOPERATIVE HOSPITAL LTD,IRINJALAKUDA COOPERATIVE HOSPITAL LTD  Kolothumpadi  Nadavaramba P O  Thrissur,Thrissur,ANTIGEN,POINT(76.247542 10.522386),IRINJALAKUDA COOPERATIVE HOSPITAL LTD  Kolothumpadi  Nadavaramba P O  Thrissur  Thrissur
+389,M.O.S.C.M.M Hospital Aduppootty Hills,M.O.S.C.M.M Hospital Aduppootty Hills  Kunnamkulam  Thrissur,Thrissur,ANTIGEN,POINT( 76.0786750 10.6483583 ),M.O.S.C.M.M Hospital Aduppootty Hills  Kunnamkulam  Thrissur
+390,Royal Hospital,Royal Hospital  DR TM Healthcare Pvt Ltd  Royal Hospital Complex  Kunnamkulam  Thrissur,Thrissur,ANTIGEN,POINT( 76.0503500 10.5251194 ),Royal Hospital  DR TM Healthcare Pvt Ltd  Royal Hospital Complex  Kunnamkulam  Thrissur
+391,Jeevodaya Mission Hospital,Jeevodaya Mission Hospital  Chelakkara  Thrissur,Thrissur,ANTIGEN,POINT(76.3309262413483 10.6959215),Jeevodaya Mission Hospital  Chelakkara  Thrissur  Thrissur
+391,Jeevodaya Mission Hospital,Jeevodaya Mission Hospital  Chelakkara  Thrissur,Thrissur,ANTIGEN,POINT(76.3309262413483 10.6959215),Jeevodaya Mission Hospital  Chelakkara  Thrissur  Thrissur
+392,Rajah Charitable  Medical Trust,Rajah Charitable  Medical Trust  Muthuvattoor  Chavakkad  Thrissur,Thrissur,ANTIGEN,POINT( 76.0290472 10.5937806 ),Rajah Charitable  Medical Trust  Muthuvattoor  Chavakkad  Thrissur
+393,Divine Medical Centre Ltd,Divine Medical Centre Ltd  Wadakkanchery  Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),Divine Medical Centre Ltd  Wadakkanchery  Thrissur  Thrissur
+393,Divine Medical Centre Ltd,Divine Medical Centre Ltd  Wadakkanchery  Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),Divine Medical Centre Ltd  Wadakkanchery  Thrissur  Thrissur
+394,G E M HOSPITAL,G E M HOSPITAL   BENNET ROAD   THRISSUR,Thrissur,ANTIGEN,POINT(76.269133 10.449388),G E M HOSPITAL   BENNET ROAD   THRISSUR  Thrissur
+394,G E M HOSPITAL,G E M HOSPITAL   BENNET ROAD   THRISSUR,Thrissur,ANTIGEN,POINT(76.269133 10.449388),G E M HOSPITAL   BENNET ROAD   THRISSUR  Thrissur
+395,Saroja Multispecialty Hospital,Saroja Multispecialty Hospital  A unit of Saroja Nursing Home  Shornur Road,Thrissur,ANTIGEN,POINT(76.215148 10.532201),Saroja Multispecialty Hospital  A unit of Saroja Nursing Home  Shornur Road  Thrissur
+395,Saroja Multispecialty Hospital,Saroja Multispecialty Hospital  A unit of Saroja Nursing Home  Shornur Road,Thrissur,ANTIGEN,POINT(76.215148 10.532201),Saroja Multispecialty Hospital  A unit of Saroja Nursing Home  Shornur Road  Thrissur
+396,Ansar Hospital,Ansar Hospital  Karikkad P O  Thrissur,Thrissur,ANTIGEN,POINT(76.247542 10.522386),Ansar Hospital  Karikkad P O  Thrissur  Thrissur
+396,Ansar Hospital,Ansar Hospital  Karikkad P O  Thrissur,Thrissur,ANTIGEN,POINT(76.247542 10.522386),Ansar Hospital  Karikkad P O  Thrissur  Thrissur
+397,Neem Care Hospital,Neem Care Hospital  Mala  Thrissur,Thrissur,ANTIGEN,POINT(76.2625898 10.2415013),Neem Care Hospital  Mala  Thrissur  Thrissur
+397,Neem Care Hospital,Neem Care Hospital  Mala  Thrissur,Thrissur,ANTIGEN,POINT(76.2625898 10.2415013),Neem Care Hospital  Mala  Thrissur  Thrissur
+398,IQRAA,IQRAA  SULTAN BATHERY,Thrissur,ANTIGEN,POINT( 76.2624306 11.6657083 ),IQRAA  SULTAN BATHERY
+399,St Joseph Hospital,St Joseph Hospital  Choondal  Thrissur,Thrissur,ANTIGEN,POINT(76.355091 10.434545),St Joseph Hospital  Choondal  Thrissur  Thrissur
+399,St Joseph Hospital,St Joseph Hospital  Choondal  Thrissur,Thrissur,ANTIGEN,POINT(76.355091 10.434545),St Joseph Hospital  Choondal  Thrissur  Thrissur
+400,Chandramathy Amma Memorial Hospital,Chandramathy Amma Memorial Hospital  Olarikkara  Thrissur,Thrissur,ANTIGEN,POINT(76.178372 10.516473),Chandramathy Amma Memorial Hospital  Olarikkara  Thrissur  Thrissur
+400,Chandramathy Amma Memorial Hospital,Chandramathy Amma Memorial Hospital  Olarikkara  Thrissur,Thrissur,ANTIGEN,POINT(76.178372 10.516473),Chandramathy Amma Memorial Hospital  Olarikkara  Thrissur  Thrissur
+401,ROHINI HOSPITAL,ROHINI HOSPITAL   CHERPU.P.O  THRISSUR ,Thrissur,ANTIGEN,POINT(76.210197 10.442225),ROHINI HOSPITAL   CHERPU.P.O  THRISSUR   Thrissur
+401,ROHINI HOSPITAL,ROHINI HOSPITAL   CHERPU.P.O  THRISSUR ,Thrissur,ANTIGEN,POINT(76.210197 10.442225),ROHINI HOSPITAL   CHERPU.P.O  THRISSUR   Thrissur
+402,Santhi Nursing Home,Santhi Nursing Home  Punnayurkulam  Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),Santhi Nursing Home  Punnayurkulam  Thrissur  Thrissur
+402,Santhi Nursing Home,Santhi Nursing Home  Punnayurkulam  Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),Santhi Nursing Home  Punnayurkulam  Thrissur  Thrissur
+403,M.I.Mission Hospital,M.I.Mission Hospital  Engandiyur ,Thrissur,ANTIGEN,POINT(76.234776 10.345043),M.I.Mission Hospital  Engandiyur   Thrissur
+403,M.I.Mission Hospital,M.I.Mission Hospital  Engandiyur ,Thrissur,ANTIGEN,POINT(76.234776 10.345043),M.I.Mission Hospital  Engandiyur   Thrissur
+404,CRAFT HOSPITAL AND RESEARCH CENTRE,CRAFT HOSPITAL AND RESEARCH CENTRE  KODUNGALLUR  THRISSUR,Thrissur,ANTIGEN,POINT(76.114617 10.36747),CRAFT HOSPITAL AND RESEARCH CENTRE  KODUNGALLUR  THRISSUR  Thrissur
+404,CRAFT HOSPITAL AND RESEARCH CENTRE,CRAFT HOSPITAL AND RESEARCH CENTRE  KODUNGALLUR  THRISSUR,Thrissur,ANTIGEN,POINT(76.114617 10.36747),CRAFT HOSPITAL AND RESEARCH CENTRE  KODUNGALLUR  THRISSUR  Thrissur
+405,SUDHARMA SPECIALTY LABORATORY,SUDHARMA SPECIALTY LABORATORY  Pazhayannur  Akbar mall Thrissur road Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),SUDHARMA SPECIALTY LABORATORY  Pazhayannur  Akbar mall Thrissur road Thrissur  Thrissur
+405,SUDHARMA SPECIALTY LABORATORY,SUDHARMA SPECIALTY LABORATORY  Pazhayannur  Akbar mall Thrissur road Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),SUDHARMA SPECIALTY LABORATORY  Pazhayannur  Akbar mall Thrissur road Thrissur  Thrissur
+406,Vinayaka Hospital,Vinayaka Hospital  Sulthan Bathery,Wayanad,ANTIGEN,POINT(76.2537212777415 11.66360995),Vinayaka Hospital  Sulthan Bathery  Wayanad
+406,Vinayaka Hospital,Vinayaka Hospital  Sulthan Bathery,Wayanad,ANTIGEN,POINT(76.2537212777415 11.66360995),Vinayaka Hospital  Sulthan Bathery  Wayanad
+407,DDRC SRL Diagnostics Pvt Ltd,DDRC SRL Diagnostics Pvt Ltd  Kalpetta  Wayanad.,Wayanad,ANTIGEN,POINT( 76.0850028 11.6048111 ),DDRC SRL Diagnostics Pvt Ltd  Kalpetta  Wayanad.
+408,Assumption Hospital,Assumption Hospital  Sulthan Bathery Wayanad.,Wayanad,ANTIGEN,POINT(76.2532357396357 11.66249035),Assumption Hospital  Sulthan Bathery Wayanad.  Wayanad
+408,Assumption Hospital,Assumption Hospital  Sulthan Bathery Wayanad.,Wayanad,ANTIGEN,POINT(76.2532357396357 11.66249035),Assumption Hospital  Sulthan Bathery Wayanad.  Wayanad
+409,ST. Joseph's Mission Hospital,ST. Joseph's Mission Hospital  Mananthavady  Wayanad,Wayanad,ANTIGEN,POINT(76.0065948342318 11.8016378),ST. Joseph's Mission Hospital  Mananthavady  Wayanad  Wayanad
+409,ST. Joseph's Mission Hospital,ST. Joseph's Mission Hospital  Mananthavady  Wayanad,Wayanad,ANTIGEN,POINT(76.0065948342318 11.8016378),ST. Joseph's Mission Hospital  Mananthavady  Wayanad  Wayanad
+410,KDC LAB,KDC LAB  Fairland Colony Road  Sulthan Bathery,Wayanad,ANTIGEN,POINT(76.092954 11.68625),KDC LAB  Fairland Colony Road  Sulthan Bathery  Wayanad
+410,KDC LAB,KDC LAB  Fairland Colony Road  Sulthan Bathery,Wayanad,ANTIGEN,POINT(76.092954 11.68625),KDC LAB  Fairland Colony Road  Sulthan Bathery  Wayanad
+411,Victory Hospital Road,Victory Hospital Road  near Matha Theatre  Sultan Bathery,Wayanad,ANTIGEN,POINT(76.092954 11.68625),Victory Hospital Road  near Matha Theatre  Sultan Bathery  Wayanad
+411,Victory Hospital Road,Victory Hospital Road  near Matha Theatre  Sultan Bathery,Wayanad,ANTIGEN,POINT(76.092954 11.68625),Victory Hospital Road  near Matha Theatre  Sultan Bathery  Wayanad
+412,DDRC SRL Diagnostics Pvt Ltd,DDRC SRL Diagnostics Pvt Ltd    N.S.S.Karayogam Buildings  Opposite Relief Medicals  Koorkenchery,Wayanad,ANTIGEN,POINT( 75.9625944 11.3660306 ),DDRC SRL Diagnostics Pvt Ltd    N.S.S.Karayogam Buildings  Opposite Relief Medicals  Koorkenchery
+413,DM WIMS Medical College,DM WIMS Medical College  Meppadi Wayanad,Wayanad,ANTIGEN,POINT(76.1321987 11.5530632),DM WIMS Medical College  Meppadi Wayanad  Wayanad
+413,DM WIMS Medical College,DM WIMS Medical College  Meppadi Wayanad,Wayanad,ANTIGEN,POINT(76.1321987 11.5530632),DM WIMS Medical College  Meppadi Wayanad  Wayanad
+414,Leo Hospital,Leo Hospital  Near New Bus stand  Kalpetta Post  Wayanad  Kerala,Wayanad,ANTIGEN,POINT(76.085307 11.604519),Leo Hospital  Near New Bus stand  Kalpetta Post  Wayanad  Kerala  Wayanad
+414,Leo Hospital,Leo Hospital  Near New Bus stand  Kalpetta Post  Wayanad  Kerala,Wayanad,ANTIGEN,POINT(76.085307 11.604519),Leo Hospital  Near New Bus stand  Kalpetta Post  Wayanad  Kerala  Wayanad
+415,GOOD SHEPHERD HOSPITAL,GOOD SHEPHERD HOSPITAL  Vythiri (P.O  WAYANAD,Wayanad,ANTIGEN,POINT(76.044141132466 11.5604534),GOOD SHEPHERD HOSPITAL  Vythiri (P.O  WAYANAD  Wayanad
+415,GOOD SHEPHERD HOSPITAL,GOOD SHEPHERD HOSPITAL  Vythiri (P.O  WAYANAD,Wayanad,ANTIGEN,POINT(76.044141132466 11.5604534),GOOD SHEPHERD HOSPITAL  Vythiri (P.O  WAYANAD  Wayanad
+416,St Vincent Hospital,St Vincent Hospital  Mananthavady  Vemom Po Wayanad,Wayanad,ANTIGEN,POINT(76.016734 11.814615),St Vincent Hospital  Mananthavady  Vemom Po Wayanad  Wayanad
+416,St Vincent Hospital,St Vincent Hospital  Mananthavady  Vemom Po Wayanad,Wayanad,ANTIGEN,POINT(76.016734 11.814615),St Vincent Hospital  Mananthavady  Vemom Po Wayanad  Wayanad
+417,Fatima Mata Mission Hospital,Fatima Mata Mission Hospital  Pinangode Road  Kalpetta  Wayanad,Wayanad,ANTIGEN,POINT(76.078948 11.614392),Fatima Mata Mission Hospital  Pinangode Road  Kalpetta  Wayanad  Wayanad
+417,Fatima Mata Mission Hospital,Fatima Mata Mission Hospital  Pinangode Road  Kalpetta  Wayanad,Wayanad,ANTIGEN,POINT(76.078948 11.614392),Fatima Mata Mission Hospital  Pinangode Road  Kalpetta  Wayanad  Wayanad
+418,Arogya Polyclinic,Arogya Polyclinic  Meenangadi  Wayanad,Wayanad,ANTIGEN,POINT(76.1615692 11.6623892),Arogya Polyclinic  Meenangadi  Wayanad  Wayanad
+418,Arogya Polyclinic,Arogya Polyclinic  Meenangadi  Wayanad,Wayanad,ANTIGEN,POINT(76.1615692 11.6623892),Arogya Polyclinic  Meenangadi  Wayanad  Wayanad
+419,Karuna Hospital,Karuna Hospital Sulthan Bathery PO Wayanad,Wayanad,ANTIGEN,POINT(76.251371 11.661652),Karuna Hospital Sulthan Bathery PO Wayanad  Wayanad
+419,Karuna Hospital,Karuna Hospital Sulthan Bathery PO Wayanad,Wayanad,ANTIGEN,POINT(76.251371 11.661652),Karuna Hospital Sulthan Bathery PO Wayanad  Wayanad
+420,Dr. Appukuttan Memorial Hospital ,Dr. Appukuttan Memorial Hospital  Sulthan Bathery PO Wayanad ,Wayanad,ANTIGEN,POINT(76.26095 11.662523),Dr. Appukuttan Memorial Hospital  Sulthan Bathery PO Wayanad   Wayanad
+420,Dr. Appukuttan Memorial Hospital ,Dr. Appukuttan Memorial Hospital  Sulthan Bathery PO Wayanad ,Wayanad,ANTIGEN,POINT(76.26095 11.662523),Dr. Appukuttan Memorial Hospital  Sulthan Bathery PO Wayanad   Wayanad
+421,PBM Hospital ,PBM Hospital  Meenangadi Wayanad,Wayanad,ANTIGEN,POINT(76.1596653 11.6570597),PBM Hospital  Meenangadi Wayanad  Wayanad
+421,PBM Hospital ,PBM Hospital  Meenangadi Wayanad,Wayanad,ANTIGEN,POINT(76.1596653 11.6570597),PBM Hospital  Meenangadi Wayanad  Wayanad
+422,Sneha Laboratory,Sneha Laboratory Sneha Hospital  Kenichira Wayanad,Wayanad,ANTIGEN,POINT(76.153209 11.721794),Sneha Laboratory Sneha Hospital  Kenichira Wayanad  Wayanad
+422,Sneha Laboratory,Sneha Laboratory Sneha Hospital  Kenichira Wayanad,Wayanad,ANTIGEN,POINT(76.153209 11.721794),Sneha Laboratory Sneha Hospital  Kenichira Wayanad  Wayanad
+423,Louise Mount Hospital,Louise Mount Hospital  Chennalode PO  Kalpetta  Wayanad,Wayanad,ANTIGEN,POINT(76.000014 11.652801),Louise Mount Hospital  Chennalode PO  Kalpetta  Wayanad  Wayanad
+423,Louise Mount Hospital,Louise Mount Hospital  Chennalode PO  Kalpetta  Wayanad,Wayanad,ANTIGEN,POINT(76.000014 11.652801),Louise Mount Hospital  Chennalode PO  Kalpetta  Wayanad  Wayanad
+424,St Martins Hospital,St Martins Hospital  Ambalavayal  Wayanad,Wayanad,ANTIGEN,POINT(76.016734 11.814615),St Martins Hospital  Ambalavayal  Wayanad  Wayanad
+424,St Martins Hospital,St Martins Hospital  Ambalavayal  Wayanad,Wayanad,ANTIGEN,POINT(76.016734 11.814615),St Martins Hospital  Ambalavayal  Wayanad  Wayanad
+425,KMHM .M.E.S HOSPITAL,KMHM .M.E.S HOSPITAL  SULTHAN BATHERY  WAYANAD  KERALA,Wayanad,ANTIGEN,POINT(76.257248 11.661596),KMHM .M.E.S HOSPITAL  SULTHAN BATHERY  WAYANAD  KERALA  Wayanad
+425,KMHM .M.E.S HOSPITAL,KMHM .M.E.S HOSPITAL  SULTHAN BATHERY  WAYANAD  KERALA,Wayanad,ANTIGEN,POINT(76.257248 11.661596),KMHM .M.E.S HOSPITAL  SULTHAN BATHERY  WAYANAD  KERALA  Wayanad
+426,Marina Hospital,Marina Hospital  Ambalavayal  Wayanad,Wayanad,ANTIGEN,POINT(76.2124325 11.6190169),Marina Hospital  Ambalavayal  Wayanad  Wayanad
+426,Marina Hospital,Marina Hospital  Ambalavayal  Wayanad,Wayanad,ANTIGEN,POINT(76.2124325 11.6190169),Marina Hospital  Ambalavayal  Wayanad  Wayanad
+427,SHRISHA Hospital,SHRISHA Hospital  Opposite Police Station  Pulpally,Wayanad,ANTIGEN,POINT(76.002651 11.796225),SHRISHA Hospital  Opposite Police Station  Pulpally  Wayanad
+427,SHRISHA Hospital,SHRISHA Hospital  Opposite Police Station  Pulpally,Wayanad,ANTIGEN,POINT(76.002651 11.796225),SHRISHA Hospital  Opposite Police Station  Pulpally  Wayanad
+429,Span Diagnostics,Span Diagnostics  R S Building  Paripally  Kollam,Thrissur,ANTIGEN,POINT( 76.7506000 8.8129833 ),Span Diagnostics  R S Building  Paripally  Kollam
+430,I vision Eye Care Centre,I vision Eye Care Centre  Chalakkudy  Thrissur,Thrissur,ANTIGEN,POINT(76.226429 10.531077),I vision Eye Care Centre  Chalakkudy  Thrissur  Thrissur
+430,I vision Eye Care Centre,I vision Eye Care Centre  Chalakkudy  Thrissur,Thrissur,ANTIGEN,POINT(76.226429 10.531077),I vision Eye Care Centre  Chalakkudy  Thrissur  Thrissur
+431,R.C.P.M Hospital,R.C.P.M Hospital  Changankulangara  Oachira,Kollam,ANTIGEN,POINT(76.632505 8.892273),R.C.P.M Hospital  Changankulangara  Oachira  Kollam
+431,R.C.P.M Hospital,R.C.P.M Hospital  Changankulangara  Oachira,Kollam,ANTIGEN,POINT(76.632505 8.892273),R.C.P.M Hospital  Changankulangara  Oachira  Kollam
+432,Anadiyil Hospital Thekkumoodu Tvm,Anadiyil Hospital Thekkumoodu Tvm,Thiruvananthapuram,ANTIGEN,POINT(76.942524 8.510253),Anadiyil Hospital Thekkumoodu Tvm  Thiruvananthapuram
+432,Anadiyil Hospital Thekkumoodu Tvm,Anadiyil Hospital Thekkumoodu Tvm,Thiruvananthapuram,ANTIGEN,POINT(76.942524 8.510253),Anadiyil Hospital Thekkumoodu Tvm  Thiruvananthapuram
+433,Doctor's Lab,Doctor's Lab  Uppala  Kasargod,Kasaragod,ANTIGEN,POINT(75.182401 12.144061),Doctor's Lab  Uppala  Kasargod  Kasaragod
+433,Doctor's Lab,Doctor's Lab  Uppala  Kasargod,Kasaragod,ANTIGEN,POINT(75.182401 12.144061),Doctor's Lab  Uppala  Kasargod  Kasaragod
+434,Manappuram Healthcare Ltd,Manappuram Healthcare Ltd  High School Jn  Valappad  Thrissur,Kollam,ANTIGEN,POINT( 76.1146306 10.3988944 ),Manappuram Healthcare Ltd  High School Jn  Valappad  Thrissur
+435,Dr.Gopinath's Diagnostic Services,Dr.Gopinath's Diagnostic Services  General Hospital Junction Thiruvananthapuram Kerala,Thiruvananthapuram,ANTIGEN,POINT(76.94216 8.50106),Dr.Gopinath's Diagnostic Services  General Hospital Junction Thiruvananthapuram Kerala  Thiruvananthapuram
+435,Dr.Gopinath's Diagnostic Services,Dr.Gopinath's Diagnostic Services  General Hospital Junction Thiruvananthapuram Kerala,Thiruvananthapuram,ANTIGEN,POINT(76.94216 8.50106),Dr.Gopinath's Diagnostic Services  General Hospital Junction Thiruvananthapuram Kerala  Thiruvananthapuram
+436,SBM Hospital,SBM Hospital  Karunagappally,Kollam,ANTIGEN,POINT(76.5357541 9.0532268),SBM Hospital  Karunagappally  Kollam
+436,SBM Hospital,SBM Hospital  Karunagappally,Kollam,ANTIGEN,POINT(76.5357541 9.0532268),SBM Hospital  Karunagappally  Kollam
+437,Westfort Hi-tech Hospital,Westfort Hi-tech Hospital  Guruvayoor Road  Ponkunnam  Thrissur,Thrissur,ANTIGEN,POINT(76.028627 10.618225),Westfort Hi-tech Hospital  Guruvayoor Road  Ponkunnam  Thrissur  Thrissur
+437,Westfort Hi-tech Hospital,Westfort Hi-tech Hospital  Guruvayoor Road  Ponkunnam  Thrissur,Thrissur,ANTIGEN,POINT(76.028627 10.618225),Westfort Hi-tech Hospital  Guruvayoor Road  Ponkunnam  Thrissur  Thrissur
+438,VALIYATH INSTITUTE OF MEDICAL SCIENCES,VALIYATH INSTITUTE OF MEDICAL SCIENCES  Pada South  Karunagapally-690518 ,Kollam,ANTIGEN,POINT(76.597863 8.889812),VALIYATH INSTITUTE OF MEDICAL SCIENCES  Pada South  Karunagapally-690518   Kollam
+438,VALIYATH INSTITUTE OF MEDICAL SCIENCES,VALIYATH INSTITUTE OF MEDICAL SCIENCES  Pada South  Karunagapally-690518 ,Kollam,ANTIGEN,POINT(76.597863 8.889812),VALIYATH INSTITUTE OF MEDICAL SCIENCES  Pada South  Karunagapally-690518   Kollam
+439,S N Trusts Medical Mission,S N Trusts Medical Mission PB No 32 Q S Road Kollam,Kollam,ANTIGEN,POINT(76.771703 9.00307),S N Trusts Medical Mission PB No 32 Q S Road Kollam  Kollam
+439,S N Trusts Medical Mission,S N Trusts Medical Mission PB No 32 Q S Road Kollam,Kollam,ANTIGEN,POINT(76.771703 9.00307),S N Trusts Medical Mission PB No 32 Q S Road Kollam  Kollam
+440,I.G Clinic & Medical Lab,I.G Clinic & Medical Lab  Moodadi North Post  Koyilandy,Kozhikode,ANTIGEN,POINT(77.7166819210982 12.9728922),I.G Clinic & Medical Lab  Moodadi North Post  Koyilandy  Kozhikode
+440,I.G Clinic & Medical Lab,I.G Clinic & Medical Lab  Moodadi North Post  Koyilandy,Kozhikode,ANTIGEN,POINT(79.256219 9.28518),I.G Clinic & Medical Lab  Moodadi North Post  Koyilandy  Kozhikode
+441,S Path Labs & Scans,S Path Labs & Scans  Mundukottackal Building   S A Road  Kadavanthra,Ernakulam,ANTIGEN,POINT(76.4303264796629 10.77885535),S Path Labs & Scans  Mundukottackal Building   S A Road  Kadavanthra  Ernakulam
+441,S Path Labs & Scans,S Path Labs & Scans  Mundukottackal Building   S A Road  Kadavanthra,Ernakulam,ANTIGEN,POINT(76.4303264796629 10.77885535),S Path Labs & Scans  Mundukottackal Building   S A Road  Kadavanthra  Ernakulam
+442,EL-EVEN LABORATORIES,EL-EVEN LABORATORIES  30/29  Iillikkal House Changampuzha Nagar P.O  Illikkal Moideen Road  Pathadipalam Ernakulam,Thrissur,ANTIGEN,POINT( 76.3160917 10.0385722 ),EL-EVEN LABORATORIES  30/29  Iillikkal House Changampuzha Nagar P.O  Illikkal Moideen Road  Pathadipalam Ernakulam
+443,Aroha Clinic,Aroha Clinic  Manakkadavu Road  Kozhikode,Kozhikode,ANTIGEN,POINT(75.852168 11.210554),Aroha Clinic  Manakkadavu Road  Kozhikode  Kozhikode
+443,Aroha Clinic,Aroha Clinic  Manakkadavu Road  Kozhikode,Kozhikode,ANTIGEN,POINT(75.852168 11.210554),Aroha Clinic  Manakkadavu Road  Kozhikode  Kozhikode
+444,Sanjeevani Hospital,Sanjeevani Hospital  Kurisummoodu P O Changanacherry-4  Kottayam,Kottayam,ANTIGEN,POINT(76.552661 9.455741),Sanjeevani Hospital  Kurisummoodu P O Changanacherry-4  Kottayam  Kottayam
+444,Sanjeevani Hospital,Sanjeevani Hospital  Kurisummoodu P O Changanacherry-4  Kottayam,Kottayam,ANTIGEN,POINT(76.552661 9.455741),Sanjeevani Hospital  Kurisummoodu P O Changanacherry-4  Kottayam  Kottayam
+445,Jeevan Diagnostic Centre,Jeevan Diagnostic Centre  Puthiyatheru  Kannur,Ernakulam,ANTIGEN,POINT( 75.3632167 11.9145861 ),Jeevan Diagnostic Centre  Puthiyatheru  Kannur
+446,Relief Hospital and Trauma Center,Relief Hospital and Trauma Center  Kondotty  Malappuram,Malappuram,ANTIGEN,POINT(75.9657046 11.1433594),Relief Hospital and Trauma Center  Kondotty  Malappuram  Malappuram
+446,Relief Hospital and Trauma Center,Relief Hospital and Trauma Center  Kondotty  Malappuram,Malappuram,ANTIGEN,POINT(75.9657046 11.1433594),Relief Hospital and Trauma Center  Kondotty  Malappuram  Malappuram
+447,Star Hospital and Nursing Home,Star Hospital and Nursing Home  Oachira  Kollam,Kannur,ANTIGEN,POINT( 76.5126444 9.1333111 ),Star Hospital and Nursing Home  Oachira  Kollam
+448,Tely Medical Centre Ltd,Tely Medical Centre Ltd  2nd  Gate  Thiruvangad  Thalassery,Kannur,ANTIGEN,POINT(75.508261 11.738501),Tely Medical Centre Ltd  2nd  Gate  Thiruvangad  Thalassery  Kannur
+448,Tely Medical Centre Ltd,Tely Medical Centre Ltd  2nd  Gate  Thiruvangad  Thalassery,Kannur,ANTIGEN,POINT(75.508261 11.738501),Tely Medical Centre Ltd  2nd  Gate  Thiruvangad  Thalassery  Kannur
+449,Kozhikode District Co-operative Hospital,Kozhikode District Co-operative Hospital  Eranhipalam,Kozhikode,ANTIGEN,POINT(75.784491 11.27691),Kozhikode District Co-operative Hospital  Eranhipalam  Kozhikode
+449,Kozhikode District Co-operative Hospital,Kozhikode District Co-operative Hospital  Eranhipalam,Kozhikode,ANTIGEN,POINT(75.784491 11.27691),Kozhikode District Co-operative Hospital  Eranhipalam  Kozhikode
+450,Mother and Child Hospital,Mother and Child Hospital  South Bazar  Kannur,Kannur,ANTIGEN,POINT(75.548752 11.819047),Mother and Child Hospital  South Bazar  Kannur  Kannur
+450,Mother and Child Hospital,Mother and Child Hospital  South Bazar  Kannur,Kannur,ANTIGEN,POINT(75.548752 11.819047),Mother and Child Hospital  South Bazar  Kannur  Kannur
+451,Sudharma Specialty Laboratory,Sudharma Specialty Laboratory  Opposite Neo Hospital  Manjeri roead  Pandikkad,Kollam,ANTIGEN,POINT( 76.0850278 11.0411944 ),Sudharma Specialty Laboratory  Opposite Neo Hospital  Manjeri roead  Pandikkad
+452,Sudharma Specialty Laboratory,Sudharma Specialty Laboratory Erumapetty  Thrissur,Thrissur,ANTIGEN,POINT(76.168453 10.562869),Sudharma Specialty Laboratory Erumapetty  Thrissur  Thrissur
+452,Sudharma Specialty Laboratory,Sudharma Specialty Laboratory Erumapetty  Thrissur,Thrissur,ANTIGEN,POINT(76.168453 10.562869),Sudharma Specialty Laboratory Erumapetty  Thrissur  Thrissur
+453,Karunya Diagnostic Centre,Karunya Diagnostic Centre  Room No. 18  KSRTC Complex Caltex   Kannur,Kannur,ANTIGEN,POINT(88.326213 22.529657),Karunya Diagnostic Centre  Room No. 18  KSRTC Complex Caltex   Kannur  Kannur
+453,Karunya Diagnostic Centre,Karunya Diagnostic Centre  Room No. 18  KSRTC Complex Caltex   Kannur,Kannur,ANTIGEN,POINT(88.326213 22.529657),Karunya Diagnostic Centre  Room No. 18  KSRTC Complex Caltex   Kannur  Kannur
+454,Maria Hospital,Maria Hospital  K P Road  Adoor  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.780336 9.272686),Maria Hospital  K P Road  Adoor  Pathanamthitta  Pathanamthitta
+454,Maria Hospital,Maria Hospital  K P Road  Adoor  Pathanamthitta,Pathanamthitta,ANTIGEN,POINT(76.780336 9.272686),Maria Hospital  K P Road  Adoor  Pathanamthitta  Pathanamthitta
+455,Microlab Scans&Diagnostics,Microlab Scans&Diagnostics  M Square Buliding  Opposite Chitra Hospital Pandalam,Pathanamthitta,ANTIGEN,POINT(76.714391 9.221539),Microlab Scans&Diagnostics  M Square Buliding  Opposite Chitra Hospital Pandalam  Pathanamthitta
+455,Microlab Scans&Diagnostics,Microlab Scans&Diagnostics  M Square Buliding  Opposite Chitra Hospital Pandalam,Pathanamthitta,ANTIGEN,POINT(76.714391 9.221539),Microlab Scans&Diagnostics  M Square Buliding  Opposite Chitra Hospital Pandalam  Pathanamthitta
+456,Emirates Medical Diagnostic Centre,Emirates Medical Diagnostic Centre  Near Govt Hospital  Mavelikkara  Alappuzha,Malappuram,ANTIGEN,POINT( 76.5481583 9.2541111 ),Emirates Medical Diagnostic Centre  Near Govt Hospital  Mavelikkara  Alappuzha
+457,Sudharma Specialty Laboratory,Sudharma Specialty Laboratory  City Plaza  Near Manalimmal Bus stand  Wandoor,Malappuram,ANTIGEN,POINT(76.135645 11.131854),Sudharma Specialty Laboratory  City Plaza  Near Manalimmal Bus stand  Wandoor  Malappuram
+457,Sudharma Specialty Laboratory,Sudharma Specialty Laboratory  City Plaza  Near Manalimmal Bus stand  Wandoor,Malappuram,ANTIGEN,POINT(76.135645 11.131854),Sudharma Specialty Laboratory  City Plaza  Near Manalimmal Bus stand  Wandoor  Malappuram
+458,Anamaya Medical Institute,Anamaya Medical Institute  Payyanur,Alappuzha,ANTIGEN,POINT( 75.2089611 12.1197389 ),Anamaya Medical Institute  Payyanur
+459,Palakkad Institute of Medical Sciences,Palakkad Institute of Medical Sciences  Walayar  Palakkad,Palakkad,ANTIGEN,POINT(76.818454 10.801866),Palakkad Institute of Medical Sciences  Walayar  Palakkad  Palakkad
+459,Palakkad Institute of Medical Sciences,Palakkad Institute of Medical Sciences  Walayar  Palakkad,Palakkad,ANTIGEN,POINT(76.818454 10.801866),Palakkad Institute of Medical Sciences  Walayar  Palakkad  Palakkad
+460,Neethi Plus Laboratory and Diagnostic Centre,Neethi Plus Laboratory and Diagnostic Centre  Pattarnadakavu  Malappuram,Malappuram,ANTIGEN,POINT(76.232619 10.97501),Neethi Plus Laboratory and Diagnostic Centre  Pattarnadakavu  Malappuram  Malappuram
+460,Neethi Plus Laboratory and Diagnostic Centre,Neethi Plus Laboratory and Diagnostic Centre  Pattarnadakavu  Malappuram,Malappuram,ANTIGEN,POINT(76.232619 10.97501),Neethi Plus Laboratory and Diagnostic Centre  Pattarnadakavu  Malappuram  Malappuram
+461,E.K.NAYANAR MEMORIAL NEETHI MEDICAL CENTRE,E.K.NAYANAR MEMORIAL NEETHI MEDICAL CENTRE  NEETHI TOWER  HOSPITAL ROAD  MANNARKKAD,Palakkad,ANTIGEN,POINT(76.661554 10.736696),E.K.NAYANAR MEMORIAL NEETHI MEDICAL CENTRE  NEETHI TOWER  HOSPITAL ROAD  MANNARKKAD  Palakkad
+461,E.K.NAYANAR MEMORIAL NEETHI MEDICAL CENTRE,E.K.NAYANAR MEMORIAL NEETHI MEDICAL CENTRE  NEETHI TOWER  HOSPITAL ROAD  MANNARKKAD,Palakkad,ANTIGEN,POINT(76.661554 10.736696),E.K.NAYANAR MEMORIAL NEETHI MEDICAL CENTRE  NEETHI TOWER  HOSPITAL ROAD  MANNARKKAD  Palakkad
+462,Dianova Laboratories,Dianova Laboratories  ABG Complex Pazhaya Road  Medical College  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(77.045034 8.589699),Dianova Laboratories  ABG Complex Pazhaya Road  Medical College  Trivandrum  Thiruvananthapuram
+462,Dianova Laboratories,Dianova Laboratories  ABG Complex Pazhaya Road  Medical College  Trivandrum,Thiruvananthapuram,ANTIGEN,POINT(77.045034 8.589699),Dianova Laboratories  ABG Complex Pazhaya Road  Medical College  Trivandrum  Thiruvananthapuram
+463,Labcare Diagnostic Centre,Labcare Diagnostic Centre  V P Tower  Near Christian Mission Hospital Up Hill  Malappuram,Malappuram,ANTIGEN,POINT(82.761491 26.801868),Labcare Diagnostic Centre  V P Tower  Near Christian Mission Hospital Up Hill  Malappuram  Malappuram
+463,Labcare Diagnostic Centre,Labcare Diagnostic Centre  V P Tower  Near Christian Mission Hospital Up Hill  Malappuram,Malappuram,ANTIGEN,POINT(82.761491 26.801868),Labcare Diagnostic Centre  V P Tower  Near Christian Mission Hospital Up Hill  Malappuram  Malappuram
+464,Assisi Mission Hospital,Assisi Mission Hospital  Parappukara P.O   Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),Assisi Mission Hospital  Parappukara P.O   Thrissur  Thrissur
+464,Assisi Mission Hospital,Assisi Mission Hospital  Parappukara P.O   Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),Assisi Mission Hospital  Parappukara P.O   Thrissur  Thrissur
+465,ATREYA HOSPITAL,ATREYA HOSPITAL  a unit of DMRI Guruvayoor Road   Near Pipeline Jn  Eastfort   Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),ATREYA HOSPITAL  a unit of DMRI Guruvayoor Road   Near Pipeline Jn  Eastfort   Thrissur  Thrissur
+465,ATREYA HOSPITAL,ATREYA HOSPITAL  a unit of DMRI Guruvayoor Road   Near Pipeline Jn  Eastfort   Thrissur,Thrissur,ANTIGEN,POINT(76.269133 10.449388),ATREYA HOSPITAL  a unit of DMRI Guruvayoor Road   Near Pipeline Jn  Eastfort   Thrissur  Thrissur
+466,Sahakarana Medical Lab,Sahakarana Medical Lab  Run By Nadakkuthazha Service Co-Operative Bank  Near Dist Gov: Hospital  Vadakara,Kozhikode,ANTIGEN,POINT(75.597216 11.59814),Sahakarana Medical Lab  Run By Nadakkuthazha Service Co-Operative Bank  Near Dist Gov: Hospital  Vadakara  Kozhikode
+466,Sahakarana Medical Lab,Sahakarana Medical Lab  Run By Nadakkuthazha Service Co-Operative Bank  Near Dist Gov: Hospital  Vadakara,Kozhikode,ANTIGEN,POINT(75.597216 11.59814),Sahakarana Medical Lab  Run By Nadakkuthazha Service Co-Operative Bank  Near Dist Gov: Hospital  Vadakara  Kozhikode
+467,CLINICAL DIAGNOSTIC&RESEARCH CENTRE,CLINICAL DIAGNOSTIC&RESEARCH CENTRE  RAUNAK BHAVAN  CDRC BUILDING MANACAUD THIRUVANANTHAPURAM,Thiruvananthapuram,ANTIGEN,POINT(78.134297 13.127206),CLINICAL DIAGNOSTIC&RESEARCH CENTRE  RAUNAK BHAVAN  CDRC BUILDING MANACAUD THIRUVANANTHAPURAM  Thiruvananthapuram
+467,CLINICAL DIAGNOSTIC&RESEARCH CENTRE,CLINICAL DIAGNOSTIC&RESEARCH CENTRE  RAUNAK BHAVAN  CDRC BUILDING MANACAUD THIRUVANANTHAPURAM,Thiruvananthapuram,ANTIGEN,POINT(78.134297 13.127206),CLINICAL DIAGNOSTIC&RESEARCH CENTRE  RAUNAK BHAVAN  CDRC BUILDING MANACAUD THIRUVANANTHAPURAM  Thiruvananthapuram
+468,Karthiayani Nursing Home,Karthiayani Nursing Home  Patturaikkal  Thrissur,Thrissur,ANTIGEN,POINT(76.211968 10.535671),Karthiayani Nursing Home  Patturaikkal  Thrissur  Thrissur
+468,Karthiayani Nursing Home,Karthiayani Nursing Home  Patturaikkal  Thrissur,Thrissur,ANTIGEN,POINT(76.211968 10.535671),Karthiayani Nursing Home  Patturaikkal  Thrissur  Thrissur
+469,Malabar Diagnostic Centre,Malabar Diagnostic Centre  MM Towers  Perinthalmanna Road  Valanchery  Malappuram,Malappuram,ANTIGEN,POINT(76.005019 11.004008),Malabar Diagnostic Centre  MM Towers  Perinthalmanna Road  Valanchery  Malappuram  Malappuram
+469,Malabar Diagnostic Centre,Malabar Diagnostic Centre  MM Towers  Perinthalmanna Road  Valanchery  Malappuram,Malappuram,ANTIGEN,POINT(76.005019 11.004008),Malabar Diagnostic Centre  MM Towers  Perinthalmanna Road  Valanchery  Malappuram  Malappuram
+470,B R Hospital and Research Centre,B R Hospital and Research Centre  Nedungolam P O   Kollam,Kollam,ANTIGEN,POINT(76.852017 8.980748),B R Hospital and Research Centre  Nedungolam P O   Kollam  Kollam
+470,B R Hospital and Research Centre,B R Hospital and Research Centre  Nedungolam P O   Kollam,Kollam,ANTIGEN,POINT(76.852017 8.980748),B R Hospital and Research Centre  Nedungolam P O   Kollam  Kollam
+471,Janamythri Lab,Janamythri Lab  Malabar Shopping Mall  Nilambur  Near Government Model UP School  Malappuram ,Malappuram,ANTIGEN,POINT(76.119983 11.121073),Janamythri Lab  Malabar Shopping Mall  Nilambur  Near Government Model UP School  Malappuram   Malappuram
+471,Janamythri Lab,Janamythri Lab  Malabar Shopping Mall  Nilambur  Near Government Model UP School  Malappuram ,Malappuram,ANTIGEN,POINT(76.119983 11.121073),Janamythri Lab  Malabar Shopping Mall  Nilambur  Near Government Model UP School  Malappuram   Malappuram
+472,Areekkara Medical Laboratory,Areekkara Medical Laboratory  Near Govt Taluk Hospital  Kuttiady  Kozhikode,Kannur,ANTIGEN,POINT( 75.7494000 11.6553861 ),Areekkara Medical Laboratory  Near Govt Taluk Hospital  Kuttiady  Kozhikode
+473,Nucleus Health Care Laboratory,Nucleus Health Care Laboratory   Opp. Govt Hospital  Irikkur P.O   Kannur,Kannur,ANTIGEN,POINT(75.371959 11.883454),Nucleus Health Care Laboratory   Opp. Govt Hospital  Irikkur P.O   Kannur  Kannur
+473,Nucleus Health Care Laboratory,Nucleus Health Care Laboratory   Opp. Govt Hospital  Irikkur P.O   Kannur,Kannur,ANTIGEN,POINT(75.371959 11.883454),Nucleus Health Care Laboratory   Opp. Govt Hospital  Irikkur P.O   Kannur  Kannur
+474,Gouri Sankar Nursing Home,Gouri Sankar Nursing Home  xx 633A 663 B Arakulam Road  Methala  Thrissur ,Thrissur,ANTIGEN,POINT(76.196634 10.737253),Gouri Sankar Nursing Home  xx 633A 663 B Arakulam Road  Methala  Thrissur   Thrissur
+474,Gouri Sankar Nursing Home,Gouri Sankar Nursing Home  xx 633A 663 B Arakulam Road  Methala  Thrissur ,Thrissur,ANTIGEN,POINT(76.196634 10.737253),Gouri Sankar Nursing Home  xx 633A 663 B Arakulam Road  Methala  Thrissur   Thrissur
+475,DDRC SRL Diagnostic Centre,DDRC SRL Diagnostic Centre  Kavitha Tower Arakkuzha Road Muvattupuzha  Ernakulam,Kozhikode,ANTIGEN,POINT( 76.5792389 9.9784000 ),DDRC SRL Diagnostic Centre  Kavitha Tower Arakkuzha Road Muvattupuzha  Ernakulam
+476,Santhinikethan Hospital,Santhinikethan Hospital  3/461  Ponkunnam  Ponkunnam-P.O ,Kottayam,ANTIGEN,POINT(76.529574 9.588253),Santhinikethan Hospital  3/461  Ponkunnam  Ponkunnam-P.O   Kottayam
+476,Santhinikethan Hospital,Santhinikethan Hospital  3/461  Ponkunnam  Ponkunnam-P.O ,Kottayam,ANTIGEN,POINT(76.529574 9.588253),Santhinikethan Hospital  3/461  Ponkunnam  Ponkunnam-P.O   Kottayam
+477,ATLAS LABORATORY(A Unit of Paramountcy Research & Diagnostics PVT Ltd,ATLAS LABORATORY(A Unit of Paramountcy Research & Diagnostics PVT Ltd  OPP to Sree Ramakrishna Hospital  Sasthamanagalam  Thiruvananthapuram,Ernakulam,ANTIGEN,POINT( 38.4872056 4.2564361 ),ATLAS LABORATORY(A Unit of Paramountcy Research & Diagnostics PVT Ltd  OPP to Sree Ramakrishna Hospital  Sasthamanagalam  Thiruvananthapuram
+478,SUNRISE HOSPITAL PVT LTD,SUNRISE HOSPITAL PVT LTD  unit :Arafa Hospital  CHANGARAMKULAM  NANNAMUKKU (PO,Malappuram,ANTIGEN,POINT(76.121667 11.117237),SUNRISE HOSPITAL PVT LTD  unit :Arafa Hospital  CHANGARAMKULAM  NANNAMUKKU (PO  Malappuram
+478,SUNRISE HOSPITAL PVT LTD,SUNRISE HOSPITAL PVT LTD  unit :Arafa Hospital  CHANGARAMKULAM  NANNAMUKKU (PO,Malappuram,ANTIGEN,POINT(76.121667 11.117237),SUNRISE HOSPITAL PVT LTD  unit :Arafa Hospital  CHANGARAMKULAM  NANNAMUKKU (PO  Malappuram
+479,Hearts Malabar Super Speciality Hospital,Hearts Malabar Super Speciality Hospital  Near Mathrubhumi  Cherussola P O  Palathara  Malappuram ,Malappuram,ANTIGEN,POINT(76.054542 11.158739),Hearts Malabar Super Speciality Hospital  Near Mathrubhumi  Cherussola P O  Palathara  Malappuram   Malappuram
+479,Hearts Malabar Super Speciality Hospital,Hearts Malabar Super Speciality Hospital  Near Mathrubhumi  Cherussola P O  Palathara  Malappuram ,Malappuram,ANTIGEN,POINT(76.054542 11.158739),Hearts Malabar Super Speciality Hospital  Near Mathrubhumi  Cherussola P O  Palathara  Malappuram   Malappuram
+480,Mangaly Medical Centre,Mangaly Medical Centre  Near St Thomas School  Olavakode- Dhoni Road   Kallekulangara  Palakkad,Palakkad,ANTIGEN,POINT(76.654783 10.774862),Mangaly Medical Centre  Near St Thomas School  Olavakode- Dhoni Road   Kallekulangara  Palakkad  Palakkad
+480,Mangaly Medical Centre,Mangaly Medical Centre  Near St Thomas School  Olavakode- Dhoni Road   Kallekulangara  Palakkad,Palakkad,ANTIGEN,POINT(76.654783 10.774862),Mangaly Medical Centre  Near St Thomas School  Olavakode- Dhoni Road   Kallekulangara  Palakkad  Palakkad
+481,Mercy Nursing Home,Mercy Nursing Home  Karukachal  Kottayam,Kottayam,ANTIGEN,POINT(76.6402345 9.5041279),Mercy Nursing Home  Karukachal  Kottayam  Kottayam
+481,Mercy Nursing Home,Mercy Nursing Home  Karukachal  Kottayam,Kottayam,ANTIGEN,POINT(76.6402345 9.5041279),Mercy Nursing Home  Karukachal  Kottayam  Kottayam
+482,Metropolis Lab,Metropolis Lab  PVS Hospital  Calicut.,Kozhikode,ANTIGEN,POINT(75.780614 11.268908),Metropolis Lab  PVS Hospital  Calicut.  Kozhikode
+482,Metropolis Lab,Metropolis Lab  PVS Hospital  Calicut.,Kozhikode,ANTIGEN,POINT(75.780614 11.268908),Metropolis Lab  PVS Hospital  Calicut.  Kozhikode
+483,ATLAS Diagnostics & Imaging Centre (A Unit of Paramountcy Research & Diagnostics PVT Ltd,ATLAS Diagnostics & Imaging Centre (A Unit of Paramountcy Research & Diagnostics PVT Ltd  Karthika Arcade  Opp Taluk Hospital  Karunagapally,Thiruvananthapuram,ANTIGEN,POINT( 76.5349917 9.0643972 ),ATLAS Diagnostics & Imaging Centre (A Unit of Paramountcy Research & Diagnostics PVT Ltd  Karthika Arcade  Opp Taluk Hospital  Karunagapally
+484,DDRC SRL Diagnostics Services PVT.LTD,DDRC SRL Diagnostics Services PVT.LTD  Sreekumar Building   Puthiyadam Temple Road  Kayamkulam   Alappuzha,Alappuzha,ANTIGEN,POINT(76.619262 9.324122),DDRC SRL Diagnostics Services PVT.LTD  Sreekumar Building   Puthiyadam Temple Road  Kayamkulam   Alappuzha  Alappuzha
+484,DDRC SRL Diagnostics Services PVT.LTD,DDRC SRL Diagnostics Services PVT.LTD  Sreekumar Building   Puthiyadam Temple Road  Kayamkulam   Alappuzha,Alappuzha,ANTIGEN,POINT(76.619262 9.324122),DDRC SRL Diagnostics Services PVT.LTD  Sreekumar Building   Puthiyadam Temple Road  Kayamkulam   Alappuzha  Alappuzha
+485,DDRC SRL Diagnostics Services PVT.LTD,DDRC SRL Diagnostics Services PVT.LTD  Mattappallil J J complex Opposite Anchal Hospital  Anchal,Kollam,ANTIGEN,POINT(76.910954 8.924206),DDRC SRL Diagnostics Services PVT.LTD  Mattappallil J J complex Opposite Anchal Hospital  Anchal  Kollam
+485,DDRC SRL Diagnostics Services PVT.LTD,DDRC SRL Diagnostics Services PVT.LTD  Mattappallil J J complex Opposite Anchal Hospital  Anchal,Kollam,ANTIGEN,POINT(76.910954 8.924206),DDRC SRL Diagnostics Services PVT.LTD  Mattappallil J J complex Opposite Anchal Hospital  Anchal  Kollam
+486,Metro SpecialtyHormone Laboratory,Metro SpecialtyHormone Laboratory  Opp Medical College Main Gate  Medical College Main Road,Malappuram,ANTIGEN,POINT(76.348544 10.884771),Metro SpecialtyHormone Laboratory  Opp Medical College Main Gate  Medical College Main Road  Malappuram
+486,Metro SpecialtyHormone Laboratory,Metro SpecialtyHormone Laboratory  Opp Medical College Main Gate  Medical College Main Road,Malappuram,ANTIGEN,POINT(76.348544 10.884771),Metro SpecialtyHormone Laboratory  Opp Medical College Main Gate  Medical College Main Road  Malappuram
+487,Sudharma Specialty Laboratory,Sudharma Specialty Laboratory  Amina Tower  Near district hospital  ottupara  Wadakkanchery,Thrissur,ANTIGEN,POINT(76.146442 10.340894),Sudharma Specialty Laboratory  Amina Tower  Near district hospital  ottupara  Wadakkanchery  Thrissur
+487,Sudharma Specialty Laboratory,Sudharma Specialty Laboratory  Amina Tower  Near district hospital  ottupara  Wadakkanchery,Thrissur,ANTIGEN,POINT(76.146442 10.340894),Sudharma Specialty Laboratory  Amina Tower  Near district hospital  ottupara  Wadakkanchery  Thrissur
+488,Silverline Hospital,Silverline Hospital  K P Vallon Road  Kadavanthra  Kochi,Ernakulam,ANTIGEN,POINT(76.332486 9.956297),Silverline Hospital  K P Vallon Road  Kadavanthra  Kochi  Ernakulam
+488,Silverline Hospital,Silverline Hospital  K P Vallon Road  Kadavanthra  Kochi,Ernakulam,ANTIGEN,POINT(76.332486 9.956297),Silverline Hospital  K P Vallon Road  Kadavanthra  Kochi  Ernakulam
+489,Upasana Road,Upasana Road  P.P Road   Pala,Kottayam,ANTIGEN,POINT(76.681381 9.717969),Upasana Road  P.P Road   Pala  Kottayam
+489,Upasana Road,Upasana Road  P.P Road   Pala,Kottayam,ANTIGEN,POINT(76.681381 9.717969),Upasana Road  P.P Road   Pala  Kottayam
+490,Sagara Hospital,Sagara Hospital  Punnapra  Alappuzha,Alappuzha,ANTIGEN,POINT(76.330998 9.461814),Sagara Hospital  Punnapra  Alappuzha  Alappuzha
+490,Sagara Hospital,Sagara Hospital  Punnapra  Alappuzha,Alappuzha,ANTIGEN,POINT(76.330998 9.461814),Sagara Hospital  Punnapra  Alappuzha  Alappuzha
+491,Indian Medical Laboratory,Indian Medical Laboratory  Near Govt Hospital  Thalassery P O  Kannur,Kannur,ANTIGEN,POINT(75.55339 11.984234),Indian Medical Laboratory  Near Govt Hospital  Thalassery P O  Kannur  Kannur
+491,Indian Medical Laboratory,Indian Medical Laboratory  Near Govt Hospital  Thalassery P O  Kannur,Kannur,ANTIGEN,POINT(75.55339 11.984234),Indian Medical Laboratory  Near Govt Hospital  Thalassery P O  Kannur  Kannur
+492,Craft Hospital,Craft Hospital  Pattambi Road Perinthalmanna  Malappuram,Malappuram,ANTIGEN,POINT(76.220719 10.97058),Craft Hospital  Pattambi Road Perinthalmanna  Malappuram  Malappuram
+492,Craft Hospital,Craft Hospital  Pattambi Road Perinthalmanna  Malappuram,Malappuram,ANTIGEN,POINT(76.220719 10.97058),Craft Hospital  Pattambi Road Perinthalmanna  Malappuram  Malappuram
+493,Panakode unity Medicare,Panakode unity Medicare  Karadi  Thamarassery   Calicut,Kozhikode,ANTIGEN,POINT(75.834387 11.479802),Panakode unity Medicare  Karadi  Thamarassery   Calicut  Kozhikode
+493,Panakode unity Medicare,Panakode unity Medicare  Karadi  Thamarassery   Calicut,Kozhikode,ANTIGEN,POINT(75.834387 11.479802),Panakode unity Medicare  Karadi  Thamarassery   Calicut  Kozhikode
+494,Trinity Eye Hospital,Trinity Eye Hospital  Manali Junction  Calicut Bypass Road  Palakkad,Palakkad,ANTIGEN,POINT(76.543439 10.646758),Trinity Eye Hospital  Manali Junction  Calicut Bypass Road  Palakkad  Palakkad
+494,Trinity Eye Hospital,Trinity Eye Hospital  Manali Junction  Calicut Bypass Road  Palakkad,Palakkad,ANTIGEN,POINT(76.543439 10.646758),Trinity Eye Hospital  Manali Junction  Calicut Bypass Road  Palakkad  Palakkad
+495,MANJERI CLINICAL LABORATORY & IDEAL X-RAYS,MANJERI CLINICAL LABORATORY & IDEAL X-RAYS  Manjeri  Malappuram,Malappuram,ANTIGEN,POINT(80.610536 16.447309),MANJERI CLINICAL LABORATORY & IDEAL X-RAYS  Manjeri  Malappuram  Malappuram
+495,MANJERI CLINICAL LABORATORY & IDEAL X-RAYS,MANJERI CLINICAL LABORATORY & IDEAL X-RAYS  Manjeri  Malappuram,Malappuram,ANTIGEN,POINT(80.610536 16.447309),MANJERI CLINICAL LABORATORY & IDEAL X-RAYS  Manjeri  Malappuram  Malappuram
+496,NUCLEUS HEALTH CARE,NUCLEUS HEALTH CARE  NADAPURAM(P.O  KOZHIKODE,Kozhikode,ANTIGEN,POINT(75.805073 11.278596),NUCLEUS HEALTH CARE  NADAPURAM(P.O  KOZHIKODE  Kozhikode
+496,NUCLEUS HEALTH CARE,NUCLEUS HEALTH CARE  NADAPURAM(P.O  KOZHIKODE,Kozhikode,ANTIGEN,POINT(75.805073 11.278596),NUCLEUS HEALTH CARE  NADAPURAM(P.O  KOZHIKODE  Kozhikode
+497,TSC Hospital Private Limited,TSC Hospital Private Limited  NH Bypass  Kulathoor Near UST Global & Infosys  Thiruvananthapuram,Kollam,ANTIGEN,POINT( 76.8785250 8.5399333 ),TSC Hospital Private Limited  NH Bypass  Kulathoor Near UST Global & Infosys  Thiruvananthapuram
+498,Mukunda Hospital,Mukunda Hospital   668/17  Payannur  Kannur,Kannur,ANTIGEN,POINT(75.358829 11.862946),Mukunda Hospital   668/17  Payannur  Kannur  Kannur
+498,Mukunda Hospital,Mukunda Hospital   668/17  Payannur  Kannur,Kannur,ANTIGEN,POINT(75.358829 11.862946),Mukunda Hospital   668/17  Payannur  Kannur  Kannur
+499,VATHIYAYATH HOSPITAL,VATHIYAYATH HOSPITAL  P.P ROAD  PERUMBAVOOR  ERNAKULAM,Ernakulam,ANTIGEN,POINT(76.435989 10.173644),VATHIYAYATH HOSPITAL  P.P ROAD  PERUMBAVOOR  ERNAKULAM  Ernakulam
+499,VATHIYAYATH HOSPITAL,VATHIYAYATH HOSPITAL  P.P ROAD  PERUMBAVOOR  ERNAKULAM,Ernakulam,ANTIGEN,POINT(76.435989 10.173644),VATHIYAYATH HOSPITAL  P.P ROAD  PERUMBAVOOR  ERNAKULAM  Ernakulam
+500,THE LAB,THE LAB  narath  Kannur  Kerala,Kannur,ANTIGEN,POINT(75.3984966695524 11.96903445),THE LAB  narath  Kannur  Kerala  Kannur
+500,THE LAB,THE LAB  narath  Kannur  Kerala,Kannur,ANTIGEN,POINT(75.3984966695524 11.96903445),THE LAB  narath  Kannur  Kerala  Kannur
+501,Kristu Jayanti Hospital,Kristu Jayanti Hospital Perumpilly Njarakkal P.O  Ernakulam,Ernakulam,ANTIGEN,POINT(76.526625 9.854811),Kristu Jayanti Hospital Perumpilly Njarakkal P.O  Ernakulam  Ernakulam
+501,Kristu Jayanti Hospital,Kristu Jayanti Hospital Perumpilly Njarakkal P.O  Ernakulam,Ernakulam,ANTIGEN,POINT(76.526625 9.854811),Kristu Jayanti Hospital Perumpilly Njarakkal P.O  Ernakulam  Ernakulam
+502,ATLAS Diagnostics & Imaging Centre(A Unit of Paramountcy Research & Diagnostics PVT Ltd,ATLAS Diagnostics & Imaging Centre(A Unit of Paramountcy Research & Diagnostics PVT Ltd  Venus Junction  Kottarakkara,Thiruvananthapuram,ANTIGEN,POINT( 76.7767111 9.0058833 ),ATLAS Diagnostics & Imaging Centre(A Unit of Paramountcy Research & Diagnostics PVT Ltd  Venus Junction  Kottarakkara
+503,Sudharma Specialty Laboratory,Sudharma Specialty Laboratory  Varikkodan Arcade  Melattur  Malappuram,Malappuram,ANTIGEN,POINT(76.119871 11.120642),Sudharma Specialty Laboratory  Varikkodan Arcade  Melattur  Malappuram  Malappuram
+503,Sudharma Specialty Laboratory,Sudharma Specialty Laboratory  Varikkodan Arcade  Melattur  Malappuram,Malappuram,ANTIGEN,POINT(76.119871 11.120642),Sudharma Specialty Laboratory  Varikkodan Arcade  Melattur  Malappuram  Malappuram
+504,Biocore Community Laboratory,Biocore Community Laboratory  Pampuram  Opp. Govt Medical College  Parippally,Kollam,ANTIGEN,POINT( 76.7502222 8.8114944 ),Biocore Community Laboratory  Pampuram  Opp. Govt Medical College  Parippally
+505,Karuna Medical College,Karuna Medical College  Vilayodi  Chittur  Palakkad,Palakkad,ANTIGEN,POINT(76.775695 10.678847),Karuna Medical College  Vilayodi  Chittur  Palakkad  Palakkad
+505,Karuna Medical College,Karuna Medical College  Vilayodi  Chittur  Palakkad,Palakkad,ANTIGEN,POINT(76.775695 10.678847),Karuna Medical College  Vilayodi  Chittur  Palakkad  Palakkad
+506,Esaf Hospital and Research Center,Esaf Hospital and Research Center  NH 213  Thachambara  Palakkad,Palakkad,ANTIGEN,POINT(76.654783 10.774862),Esaf Hospital and Research Center  NH 213  Thachambara  Palakkad  Palakkad
+506,Esaf Hospital and Research Center,Esaf Hospital and Research Center  NH 213  Thachambara  Palakkad,Palakkad,ANTIGEN,POINT(76.654783 10.774862),Esaf Hospital and Research Center  NH 213  Thachambara  Palakkad  Palakkad
+507,Palace Hospital Pvt Ltd,Palace Hospital Pvt Ltd  Asramam Road  Potta  Chalakkudy,Thrissur,ANTIGEN,POINT(76.203456 10.210703),Palace Hospital Pvt Ltd  Asramam Road  Potta  Chalakkudy  Thrissur
+507,Palace Hospital Pvt Ltd,Palace Hospital Pvt Ltd  Asramam Road  Potta  Chalakkudy,Thrissur,ANTIGEN,POINT(76.203456 10.210703),Palace Hospital Pvt Ltd  Asramam Road  Potta  Chalakkudy  Thrissur
+508,Royal Diagnostic Center,Royal Diagnostic Center   Govt. Hospital Road  Changanassery,Kottayam,ANTIGEN,POINT(76.532993 9.451122),Royal Diagnostic Center   Govt. Hospital Road  Changanassery  Kottayam
+508,Royal Diagnostic Center,Royal Diagnostic Center   Govt. Hospital Road  Changanassery,Kottayam,ANTIGEN,POINT(76.532993 9.451122),Royal Diagnostic Center   Govt. Hospital Road  Changanassery  Kottayam
+509,Medical Diagnostic Service TC 72/1219,Medical Diagnostic Service TC 72/1219  Mediplaza  Near UAE Consulate  Manacaud,Thiruvananthapuram,ANTIGEN,POINT(76.957012 8.488482),Medical Diagnostic Service TC 72/1219  Mediplaza  Near UAE Consulate  Manacaud  Thiruvananthapuram
+509,Medical Diagnostic Service TC 72/1219,Medical Diagnostic Service TC 72/1219  Mediplaza  Near UAE Consulate  Manacaud,Thiruvananthapuram,ANTIGEN,POINT(76.957012 8.488482),Medical Diagnostic Service TC 72/1219  Mediplaza  Near UAE Consulate  Manacaud  Thiruvananthapuram
+510,Metro Scans,Metro Scans Fairooza Building  Govt Taluk Hospital Junction   Nedumangad,Kollam,ANTIGEN,POINT( 76.9575639 8.4889444 ),Metro Scans Fairooza Building  Govt Taluk Hospital Junction   Nedumangad
+511,Metro Scans,Metro Scans  Kailas Arcad District Hospital Road  Chamakkada  Kollam,Kollam,ANTIGEN,POINT(76.600777 8.895683),Metro Scans  Kailas Arcad District Hospital Road  Chamakkada  Kollam  Kollam
+511,Metro Scans,Metro Scans  Kailas Arcad District Hospital Road  Chamakkada  Kollam,Kollam,ANTIGEN,POINT(76.600777 8.895683),Metro Scans  Kailas Arcad District Hospital Road  Chamakkada  Kollam  Kollam
+513,Metro scans,Metro scans  Bhavani Trade Centre. High School Junction  Karunagappally,Kollam,ANTIGEN,POINT(76.914402 8.960836),Metro scans  Bhavani Trade Centre. High School Junction  Karunagappally  Kollam
+514,Bio Lab Clinical laboratory,Bio Lab Clinical laboratory  Modern Tower  Manipuram Road  Koduvally  Kozhikode,Kozhikode,ANTIGEN,POINT(75.918834 11.332532),Bio Lab Clinical laboratory  Modern Tower  Manipuram Road  Koduvally  Kozhikode  Kozhikode
+515,Western Hospital and Nursing Home,Western Hospital and Nursing Home  Opp. Malabar Christian College  Nadakavu,Kozhikode,ANTIGEN,POINT(75.763633 11.557424),Western Hospital and Nursing Home  Opp. Malabar Christian College  Nadakavu  Kozhikode
+516,PMSA Memorial Malappuram District,PMSA Memorial Malappuram District  Co-operative Hospital  Uphill PO  Manjeri Road  Malappuram,Malappuram,ANTIGEN,POINT(76.089879 11.051949),PMSA Memorial Malappuram District  Co-operative Hospital  Uphill PO  Manjeri Road  Malappuram  Malappuram
